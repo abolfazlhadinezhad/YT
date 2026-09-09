@@ -252,8 +252,84 @@ Avoid a comic strip made of separate boxes.
 ---
 
 ### اسلاید ۵ (موقعیت جدید) — «دره ناامیدی»
-*(همون اسلاید Expectation vs Reality که قبلاً ساختی — اینجا قرار می‌گیره)*
+*(همون اسلاید Expectation vs Realit که قبلاً ساختی — اینجا قرار می‌گیره)*
+Create one powerful visual story showing the “Valley of Disappointment” — the gap between what people expect when starting a new habit and what actually happens in the beginning.
 
+Use the exact main character from the provided character reference sheet. Preserve his facial structure, hairstyle, beard, skin tone, body proportions, clothing style, and overall identity exactly. Do not redesign or replace the character.
+
+Build the entire composition around one long winding road that represents the journey of building a habit.
+
+At the far left, the main character starts the journey full of excitement and optimism. He is energetic, smiling, and looking toward a bright destination in the distance.
+
+Above the beginning of the road, show a simple rising dotted expectation line leading quickly upward toward a bright goal labeled:
+“WHAT I EXPECTED”
+
+The expectation line should visually suggest:
+“I START → I SEE RESULTS”
+
+But the actual road immediately descends into a deep valley.
+
+As the character walks forward, the road gradually drops lower and lower. Show subtle time markers along the road:
+“WEEK 1”
+“WEEK 2”
+“MONTH 1”
+
+During this part of the journey, the character becomes increasingly frustrated and confused because the visible results are almost flat.
+
+At the bottom of the valley, place the character sitting or standing exhausted, looking disappointed at a nearly flat progress line.
+
+Above him, a small thought bubble can say:
+“IS THIS EVEN WORKING?”
+
+This is the emotional lowest point of the entire composition.
+
+But the road does NOT end there.
+
+From the bottom of the valley, the same road continues upward toward the right side and eventually reaches a dramatic breakthrough area filled with visible progress, light, and energy.
+
+Near the upward section, show the progress line beginning to rise sharply.
+
+At the destination, show a small but powerful visual transformation:
+the character standing confidently, healthier, stronger, and visibly proud of the progress he has built.
+
+Place a small label near this breakthrough:
+“BREAKTHROUGH”
+
+The most important visual idea is that the valley happens BEFORE the visible results.
+
+Make the valley physically deep and visually obvious. The character should appear tiny inside the valley compared with the scale of the journey, emphasizing how easy it is to give up at this point.
+
+Create a subtle visual bridge between the expectation curve and the actual journey:
+EXPECTED RESULTS rise quickly,
+VISIBLE RESULTS stay almost flat,
+but REAL CHANGE is happening underneath the surface.
+
+Do not use a generic graph with two lines.
+Do not make this a two-column infographic.
+Do not use separate cards or boxes.
+Do not simply place “Expectation” and “Reality” side by side.
+The entire slide should feel like one continuous journey through a physical landscape.
+
+Use only a few short labels:
+“WHAT I EXPECTED”
+“WEEK 1”
+“WEEK 2”
+“MONTH 1”
+“VALLEY OF DISAPPOINTMENT”
+“BREAKTHROUGH”
+
+The title area should remain clean and uncluttered.
+
+The emotional progression should be clearly visible:
+EXCITEMENT → CONFUSION → FRUSTRATION → DOUBT → PERSISTENCE → BREAKTHROUGH
+
+The character should appear naturally integrated into the journey, with different small sequential versions of him along the same path rather than a collection of unrelated character poses.
+
+16:9 widescreen composition.
+
+Clean editorial flat illustration, warm beige background, deep green and dark teal dominant colors, crimson accents only where useful, subtle hand-drawn texture, strong visual hierarchy, generous negative space, premium storytelling composition.
+
+The final image must feel like a meaningful scene from a story, not an infographic.
 ---
 
 ### اسلاید ۹ — «صندوق رای» [اختیاری]
@@ -578,6 +654,80 @@ At the top, a simple formula appears: “AFTER THIS → DO THIS”.
 The final domino should land beside the character’s workspace, making the cause-and-effect obvious.
 The character looks satisfied because one habit naturally triggers the next.
 ```
+
+اسلاید 20 جایگزین:
+Create one coherent visual story showing the principle “MAKE IT OBVIOUS”.
+
+Use the exact main character from the provided character reference sheet. Preserve his facial structure, hairstyle, beard, skin tone, body proportions, clothing style, and overall identity exactly. Do not redesign or replace the character.
+
+Create a bright, organized “environment designed for good habits” around the character.
+
+The main character stands in the center of the scene, looking at several everyday environments where the visual cues for good habits have been intentionally placed directly in his line of sight.
+
+Show three clear situations connected as one continuous visual composition:
+
+1. EXERCISE:
+The character wants to go to the gym.
+His gym clothes, sneakers, and gym bag are already placed directly beside the bedroom door and clearly visible.
+The sneakers are positioned in the foreground as an obvious visual cue.
+A small label near them says:
+“WANT TO GO TO THE GYM?”
+and another small label says:
+“PUT YOUR GYM CLOTHES WHERE YOU CAN SEE THEM.”
+
+2. LANGUAGE LEARNING:
+On the character’s desk, an open language-learning book is placed prominently in the center of his workspace, impossible to overlook.
+The book is open to a page with visible vocabulary notes.
+His phone and unrelated distractions are pushed into the background.
+A small label says:
+“WANT TO LEARN A LANGUAGE?”
+and another:
+“KEEP THE BOOK IN PLAIN SIGHT.”
+
+3. READING:
+Beside the character’s bed, a book is placed directly on the pillow or bedside table, ready to be picked up before sleeping.
+The visual cue is obvious and inviting.
+A small label says:
+“WANT TO READ MORE?”
+and another:
+“PUT THE BOOK WHERE YOU’LL SEE IT.”
+
+Connect all three situations with a subtle visual line or flowing path that leads back to one central principle:
+“MAKE IT OBVIOUS”
+
+The character should not look like he is giving a presentation. Instead, show him naturally noticing the visible cues and moving toward the desired habits almost automatically.
+
+The important visual message:
+DON’T RELY ONLY ON WILLPOWER.
+DESIGN YOUR ENVIRONMENT SO THE RIGHT HABIT IS IMPOSSIBLE TO MISS.
+
+Make the objects themselves tell the story. The gym shoes should visually invite exercise, the language book should visually invite studying, and the book beside the bed should visually invite reading.
+
+Use minimal text. The examples should be understandable from the scene itself, with text acting only as supporting labels.
+
+Do not create three separate cards.
+Do not create a checklist.
+Do not create three columns filled with icons.
+Do not make a generic infographic.
+Do not simply place three objects next to the character.
+
+Instead, make the three examples feel like different parts of the SAME intelligently designed environment, with the character moving naturally through them.
+
+Visual hierarchy:
+The largest element is the main character and the central “MAKE IT OBVIOUS” concept.
+The three habit cues are secondary but immediately recognizable.
+The environment should feel intentional, organized, and realistic enough to understand instantly.
+
+Mood:
+Smart, practical, motivating, slightly playful, confident.
+
+Art direction:
+Clean editorial flat illustration, warm beige background, deep green and dark teal dominant colors, crimson accents only where useful, subtle hand-drawn texture, strong visual hierarchy, generous negative space, premium storytelling composition.
+
+16:9 widescreen composition.
+
+The final image must communicate the idea visually within one second:
+“If you want to do a habit, put the cue directly in front of you.”
 
 ---
 
