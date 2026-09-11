@@ -4,306 +4,818 @@
 **Format:** 16:9 — 1920 × 1080  
 **Purpose:** Expanded content-only image prompts for the full script
 
-میخواهم بهت محتوای اسلاید بدم و تو بر اساس قوانینی که بهت دادم طراحی کنی، دقت کن میخوام کاراکتر دقیقا همین باشه
+```text
+# Atomic Habits — Slide Prompt System
 
-(ممکنه بعضی اسلایدا کاراکتر نخوان)
+## Clear, Moderately Detailed Visual Storytelling
 
-سایز عکس هایی که میسازی 16 در 9 باشه
+### Purpose
+
+These prompts are designed for slides that stay on screen for only **2–4 seconds**.
+
+The image should communicate the meaning of the narration **quickly and clearly**, while still feeling visually interesting, polished, and consistent with the channel identity.
+
+The goal is **not** to make every image extremely simple.
+
+The goal is:
+
+> **Clear enough to understand instantly, detailed enough to feel designed.**
+
+---
+
+## 1. Core Rule
+
+For every slide, include the exact narration sentence or idea that the image needs to communicate.
 
 ```text
-میخواهم بهت محتوای اسلاید بدم و تو بر اساس قوانینی که بهت دادم طراحی کنی، دقت کن میخوام کاراکتر دقیقا همین باشه
 
-(ممکنه بعضی اسلایدا کاراکتر نخوان)
+NARRATION:
 
-سایز عکس هایی که میسازی 16 در 9 باشه
-VISUAL IDENTITY SYSTEM — MASTER SCRIPT
-Channel Visual Identity / Image Generation
+[Exact narrator sentence or key sentence being illustrated.]
 
-PURPOSE
-This document is the master visual guideline for generating images for the channel.
-Every generated slide must belong to the same visual identity, even when the subject,
-scene, or art style changes.
+CORE MESSAGE:
 
-==================================================
-1. REFERENCE SYSTEM
-==================================================
+[The single idea the viewer must understand from the image.]
 
-Use the four provided reference boards as the source of truth:
+```
 
-A. SIZE / COMPOSITION
-Defines the format, layout language, negative space, framing and visual hierarchy.
+The image should explain the **meaning** of the narration, not merely show every object mentioned in it.
 
-B. MAIN REFERENCE CHARACTER
-Defines the recurring main character of the channel.
+### 2–4 Second Test
 
-C. ART STYLES
-Defines the approved illustration/art directions that can be selected for individual slides.
+Ask:
 
-D. COLOR PALETTE
-Defines the fixed brand colors.
+> If the viewer sees this image for only 2–4 seconds, will they understand the main idea?
 
-PRIORITY ORDER:
-1. Main character consistency
-2. Composition language
-3. Color palette
-4. Selected art style
-5. Subject-specific details
+If not:
 
-==================================================
-2. MAIN REFERENCE CHARACTER
-==================================================
+- simplify the composition;
 
-The character shown in the Main Reference board is the primary recurring character
-and visual identity of the channel.
+- remove secondary objects;
 
-Always use the established Main Reference Character when the slide requires the
-channel's main character.
+- strengthen the main visual action;
 
-PRESERVE:
-- recognizable facial structure
-- facial proportions
-- hairstyle
-- beard and general facial hair
-- skin tone
-- general body proportions
-- overall recognizable appearance
+- make the metaphor more obvious;
 
-The character must remain recognizable across different slides, scenes, poses,
-camera angles and art styles.
+- increase the visual contrast between important elements.
 
-ALLOWED TO CHANGE:
-- pose
-- facial expression
-- clothing when appropriate
-- camera angle
-- environment
-- action
-- lighting
+Do **not** solve the problem by adding more objects or more text.
 
-DO NOT:
-- redesign the character
-- randomly change facial features
-- make the character look like a different person
-- exaggerate facial proportions without instruction
-- create a generic replacement character
+---
 
-==================================================
-3. ART STYLE SYSTEM
-==================================================
+## 2. Visual Complexity
 
-The Art Styles reference board defines the approved visual language.
+Aim for **moderate visual complexity**.
 
-The art style may change from slide to slide, but it must be selected from or remain
-visually compatible with the approved Art Styles reference.
+Every slide should have:
 
-When a specific art style is requested:
-- treat it as the primary style reference
-- preserve the main character's identity within that style
-- keep the composition and color identity consistent
+- one dominant idea;
 
-Do not combine unrelated styles unless explicitly requested.
+- one clear focal point;
 
-STYLE PRINCIPLE:
-Art style can change.
-Brand identity cannot.
+- one main visual action or metaphor;
 
-==================================================
-4. FIXED BRAND COLOR PALETTE
-==================================================
+- a small number of supporting elements;
 
-Use the following colors as the official brand palette:
+- enough environmental detail to feel complete;
 
-Deep Green      #025042
-Dark Teal       #056758
-Warm Beige      #DBC7A4
-Crimson Pink    #C31048
-Deep Crimson    #A40032
+- clear separation between important and secondary elements;
 
-COLOR RULES:
-- These colors should dominate the visual system.
-- Deep Green, Dark Teal and Warm Beige are the preferred dominant colors.
-- Crimson Pink and Deep Crimson should primarily be used as accents.
-- Use visually compatible shades/tints when necessary, while keeping the original
-  palette recognizable.
-- Avoid strong unrelated colors unless they are essential to the subject.
-- Do not introduce random neon colors.
-- Do not let the art style override the brand palette.
+- breathing room.
 
-The final image should still feel like the same channel even when the illustration
-style changes.
+Avoid:
 
-==================================================
-5. SIZE & COMPOSITION
-==================================================
+- crowded scenes;
 
-DEFAULT OUTPUT:
-1080 × 1920 px
-Vertical 9:16
+- too many competing objects;
 
-COMPOSITION LANGUAGE:
-- clean
-- editorial
-- modern
-- minimal
-- intentional
-- generous negative space
-- strong visual hierarchy
-- controlled asymmetry
-- rounded geometric framing
-- clear separation between subject and background
+- multiple unrelated metaphors;
 
-Leave intentional negative space whenever text will be added later.
+- rows of icons;
 
-Do not overcrowd the frame.
-Do not fill empty areas with unnecessary objects.
+- infographic-style collections;
 
-The composition should feel designed rather than randomly generated.
+- unnecessary labels;
 
-==================================================
-6. OVERALL VISUAL PERSONALITY
-==================================================
+- complicated diagrams;
 
-The channel should feel:
+- several simultaneous storylines;
 
-Modern
-Editorial
-Creative
-Smart
-Premium
-Playful but controlled
-Minimal
-Clean
-Distinctive
-Intentional
+- decorative objects with no purpose.
 
-AVOID:
-- generic AI aesthetics
-- stock-image appearance
-- excessive visual clutter
-- excessive gradients
-- random neon colors
-- unnecessary 3D effects
-- overly cinematic color grading
-- inconsistent character design
-- decorative elements without purpose
-- overly photorealistic visuals when an illustrated style is requested
+**Do not make the image empty or overly minimal.**
 
-==================================================
-7. SLIDE GENERATION TEMPLATE
-==================================================
+The target is:
 
-For every new slide, use the following structure:
+> **Simple concept + enough visual richness to feel designed.**
 
-NEW SLIDE
+Not an empty image, and not a collection of everything mentioned in the narration.
 
-SUBJECT:
-[What is the slide about?]
+---
 
-MESSAGE:
-[What should the viewer understand?]
+## 3. One-Sentence Visual Concept
+
+Before writing the detailed prompt, define the visual concept in one sentence.
+
+```text
+
+VISUAL CONCEPT:
+
+The character chooses the difficult uphill path because it leads toward a better long-term result.
+
+```
+
+If the visual concept cannot be explained in one clear sentence, the scene is probably trying to communicate too much.
+
+---
+
+## 4. Narration-to-Visual Translation
+
+Do not illustrate every word literally.
+
+Identify the **meaning** of the sentence and build the scene around that meaning.
+
+### Example
+
+Narration:
+
+> “Bad habits reward you right now. With almost no effort.”
+
+Avoid showing phone + candy + couch + clock + food + several arrows + many labels.
+
+Instead:
+
+> The character reaches toward a phone and receives an immediate satisfying reward with almost no physical effort.
+
+The second version communicates the idea much faster.
+
+---
+
+## 5. Main Character
+
+When the slide requires the character:
+
+```text
 
 MAIN CHARACTER:
-Use the established Main Reference Character.
+
+Use the established Main Reference Character provided separately.
+
+```
+
+The character reference and visual identity will be supplied separately to the image generator.
+
+Preserve:
+
+- recognizable face;
+
+- facial structure;
+
+- facial proportions;
+
+- hairstyle;
+
+- beard and facial hair;
+
+- skin tone;
+
+- body proportions;
+
+- overall recognizable appearance.
+
+Do not redesign or replace the character.
+
+Allowed to change:
+
+- pose;
+
+- expression;
+
+- clothing when appropriate;
+
+- camera angle;
+
+- environment;
+
+- action;
+
+- lighting.
+
+### Character Priority
+
+The character must remain recognizable as the same person across different scenes, poses, environments, and approved styles.
+
+---
+
+## 6. Character vs. No Character
+
+Do not automatically add the character to every slide.
+
+Use the character when:
+
+- human action helps explain the idea;
+
+- the viewer needs to see a choice or behavior;
+
+- the character's reaction matters;
+
+- a human presence strengthens the metaphor;
+
+- the scene is part of an ongoing visual journey.
+
+Do not use the character when:
+
+- an object-based metaphor communicates the idea more clearly;
+
+- the concept is better represented by a symbolic scene or diagram;
+
+- adding the character would make the composition unnecessarily busy.
+
+---
+
+## 7. Visual Hierarchy
+
+Every slide should have a clear hierarchy.
+
+### Level 1 — Main idea
+
+The element the viewer notices first.
+
+### Level 2 — Supporting idea
+
+One or two elements that clarify the main idea.
+
+### Level 3 — Atmosphere
+
+Background details that make the scene feel complete.
+
+Level 3 must never compete with Level 1.
+
+---
+
+## 8. Composition
+
+Use:
+
+- clean editorial composition;
+
+- intentional asymmetry;
+
+- strong focal point;
+
+- controlled depth;
+
+- generous negative space;
+
+- clear foreground / middle ground / background when useful;
+
+- simple geometric framing when appropriate;
+
+- balanced visual weight.
+
+Do not center everything automatically.
+
+Do not fill empty areas simply because they are empty.
+
+When text will be added later, deliberately reserve a clean area for it.
+
+---
+
+## 9. Text
+
+The image should carry the concept visually.
+
+Use text only when it materially improves understanding.
+
+Prefer:
+
+- one short caption;
+
+- one or two labels;
+
+- a single important word.
+
+Avoid:
+
+- paragraphs;
+
+- explanatory sentences;
+
+- many competing labels;
+
+- dense infographic text.
+
+If a requested caption is important, reproduce it exactly.
+
+---
+
+## 10. Brand Colors
+
+Use the established visual identity and fixed palette:
+
+- Deep Green — `#025042`
+
+- Dark Teal — `#056758`
+
+- Warm Beige — `#DBC7A4`
+
+- Crimson Pink — `#C31048`
+
+- Deep Crimson — `#A40032`
+
+Prioritize Deep Green, Dark Teal, and Warm Beige.
+
+Use Crimson Pink and Deep Crimson primarily as accents.
+
+Avoid unrelated strong colors and random neon colors.
+
+---
+
+## 11. Style
+
+Use the approved visual style provided separately.
+
+The selected art style may change when appropriate, but the channel identity must remain consistent.
+
+Keep the overall feeling:
+
+- modern;
+
+- editorial;
+
+- creative;
+
+- smart;
+
+- premium;
+
+- playful but controlled;
+
+- clean;
+
+- intentional.
+
+Avoid:
+
+- generic AI aesthetics;
+
+- stock-image appearance;
+
+- excessive gradients;
+
+- excessive 3D effects;
+
+- overly cinematic color grading;
+
+- visual clutter;
+
+- random decorative elements;
+
+- photorealism when an illustrated style is requested.
+
+---
+
+## 12. Scene Design
+
+A good slide should usually contain:
+
+```text
+
+MAIN SUBJECT
+
++
+
+MAIN ACTION / METAPHOR
+
++
+
+1–3 SUPPORTING DETAILS
+
++
+
+CLEAN BACKGROUND
+
+```
+
+Supporting details should naturally belong to the same environment.
+
+Do not turn them into separate mini-scenes.
+
+---
+
+## 13. Metaphor Rule
+
+When using a metaphor, make it physically understandable.
+
+Example:
+
+Narration:
+
+> “Goals tell you where you want to go. Systems actually get you there.”
+
+Visual concept:
+
+> The character can clearly see the destination marked “GOAL”, but a practical sequence of small steps marked “SYSTEM” is what actually carries him forward.
+
+Do not create two complicated infographic columns.
+
+---
+
+## 14. Movement and Continuity
+
+When a slide is part of a visual sequence, connect it naturally to previous slides through:
+
+- the same character;
+
+- a recurring path;
+
+- recurring objects;
+
+- consistent lighting;
+
+- visual direction;
+
+- repeated motifs.
+
+But do not force continuity if it makes the new slide complicated.
+
+Continuity should support the message, not compete with it.
+
+---
+
+# 15. Standard Slide Prompt Template
+
+Use this structure for every new slide:
+
+```text
+
+SLIDE:
+
+[Slide title / idea]
+
+NARRATION:
+
+“[Exact narrator sentence.]”
+
+CORE MESSAGE:
+
+[What the viewer must understand immediately.]
+
+VISUAL CONCEPT:
+
+[One sentence describing the main visual idea.]
+
+SCENE:
+
+[Describe one coherent scene.]
+
+MAIN CHARACTER:
+
+Use the established Main Reference Character provided separately.
+
+[Only if the character is needed.]
 
 CHARACTER ACTION:
-[What is the character doing?]
 
-ART STYLE:
-[Select the desired approved Art Style.]
+[One clear action.]
+
+SUPPORTING DETAILS:
+
+[Only the few details that strengthen the main idea.]
 
 COMPOSITION:
-[Where should the character/object be placed?]
 
-TEXT AREA:
-[Where should the text remain clear?]
+[Placement, framing, camera angle, negative space.]
+
+TEXT:
+
+[Only necessary short labels/captions.]
 
 MOOD:
-[Desired emotional tone.]
+
+[Emotional tone.]
 
 COLOR:
-Use the fixed brand palette.
-Prioritize:
+
+Use the established brand palette:
+
 #025042
+
 #056758
+
 #DBC7A4
+
 #C31048
+
 #A40032
 
-FORMAT:
-1080 × 1920 px, vertical 9:16.
+STYLE:
 
-==================================================
-8. FINAL GENERATION RULE
-==================================================
+Use the approved visual style provided separately.
 
-Every image must look like it belongs to the same channel.
+READABILITY:
 
-Keep the following CONSTANT:
-- main character identity
-- brand color palette
-- composition language
-- visual hierarchy
-- overall design personality
+The concept must be understandable within 2–4 seconds.
 
-Allow the following to CHANGE:
-- topic
-- scene
-- pose
-- action
-- environment
-- selected art style
-- mood
-- supporting objects
+Keep one dominant focal point.
 
-The final result must prioritize visual consistency over unnecessary detail.
-
-==================================================
-9. EXAMPLE REQUEST
-==================================================
-
-NEW SLIDE
-
-SUBJECT:
-AI is changing the way designers work.
-
-MESSAGE:
-Show the transformation from a traditional design workflow to an AI-assisted workflow.
-
-MAIN CHARACTER:
-Use the established Main Reference Character.
-
-CHARACTER ACTION:
-The character is sitting at a desk working on a computer while AI-generated visual
-concepts appear around him.
-
-ART STYLE:
-Use the most appropriate approved style from the Art Styles reference.
-
-COMPOSITION:
-Character on the right side.
-Large clean negative space on the left for typography.
-Use rounded vertical framing elements inspired by the Composition reference.
-
-TEXT AREA:
-Keep the left 40% visually clean.
-
-MOOD:
-Smart, creative, modern and slightly playful.
-
-COLOR:
-Strictly follow the fixed brand palette.
-Prioritize Deep Green, Dark Teal and Warm Beige.
-Use Crimson Pink and Deep Crimson as accents.
-
-FORMAT:
-1080 × 1920 px, vertical 9:16.
+Keep the scene moderately detailed but uncluttered.
 
 DO NOT:
-- redesign the character
-- introduce unrelated colors
-- overcrowd the composition
-- use generic AI imagery
-- break the established visual identity
+
+- overcrowd the scene;
+
+- create multiple unrelated visual stories;
+
+- add unnecessary objects;
+
+- turn the image into an infographic;
+
+- use excessive text;
+
+- redesign the main character;
+
+- introduce unrelated colors;
+
+- make the image unnecessarily complicated.
+
+```
+
+---
+
+# 16. Example — Why Bad Habits Feel Easy
+
+```text
+
+SLIDE:
+
+Why bad habits feel easy while good ones feel hard.
+
+NARRATION:
+
+“Why do bad habits feel so natural? Why is picking up your phone,
+
+eating junk food, or staying up late so effortless?”
+
+CORE MESSAGE:
+
+Bad habits feel easy because they require very little effort.
+
+VISUAL CONCEPT:
+
+The character naturally moves down an easy path while an uphill path
+
+beside him clearly requires more effort.
+
+SCENE:
+
+The main character stands at the beginning of two physical paths.
+
+One path slopes gently downhill and is smooth and effortless.
+
+The other path rises uphill and visibly requires effort.
+
+The character is naturally drawn toward the easy downhill path.
+
+MAIN CHARACTER:
+
+Use the established Main Reference Character provided separately.
+
+CHARACTER ACTION:
+
+He takes an easy step toward the downhill path while looking at the
+
+more difficult uphill path.
+
+SUPPORTING DETAILS:
+
+Keep the environment simple. The paths themselves should communicate
+
+the difference. A few subtle environmental details are allowed, but
+
+nothing should compete with the paths.
+
+COMPOSITION:
+
+One coherent landscape scene with both paths clearly visible.
+
+The character is the main focal point.
+
+TEXT:
+
+“EASY NOW”
+
+“HARD NOW”
+
+MOOD:
+
+Clear, thoughtful, slightly revealing.
+
+COLOR:
+
+Use the established brand palette.
+
+STYLE:
+
+Use the approved visual style provided separately.
+
+READABILITY:
+
+The viewer should understand the contrast almost immediately.
+
+Moderate detail, not an empty scene and not a crowded scene.
+
+DO NOT:
+
+- create two infographic columns;
+
+- add many objects;
+
+- create multiple characters;
+
+- add several separate metaphors;
+
+- make the paths overly complicated.
+
+```
+
+---
+
+# 17. Example — Goals vs. Systems
+
+```text
+
+SLIDE:
+
+Goals vs. Systems
+
+NARRATION:
+
+“Goals tell you where you want to go. Systems actually get you there.”
+
+CORE MESSAGE:
+
+Knowing the destination is not enough; a repeatable system is what
+
+actually moves you toward it.
+
+VISUAL CONCEPT:
+
+The character can clearly see the destination, but only the practical
+
+sequence of small steps beneath him actually moves him forward.
+
+SCENE:
+
+The main character stands on a simple road looking toward a distant
+
+destination marked “GOAL”.
+
+The road immediately around him is unfinished.
+
+In front of him, a clear sequence of practical stepping stones marked
+
+“1”, “2”, “3” continues forward and connects to the destination.
+
+The stepping stones are the clear mechanism that moves him forward.
+
+MAIN CHARACTER:
+
+Use the established Main Reference Character provided separately.
+
+CHARACTER ACTION:
+
+He looks from the distant goal down toward the practical steps in front
+
+of him, realizing the difference.
+
+SUPPORTING DETAILS:
+
+Only the distant destination and the stepping stones.
+
+COMPOSITION:
+
+The destination is visible in the distance.
+
+The stepping stones lead from the foreground toward it.
+
+Keep the road visually simple and readable.
+
+TEXT:
+
+“GOAL”
+
+“SYSTEM”
+
+MOOD:
+
+Clear realization.
+
+COLOR:
+
+Use the established brand palette.
+
+STYLE:
+
+Use the approved visual style provided separately.
+
+READABILITY:
+
+The viewer should understand the message without needing to inspect
+
+small details.
+
+DO NOT:
+
+- create two infographic columns;
+
+- add multiple charts;
+
+- add several different systems;
+
+- clutter the road with objects;
+
+- use explanatory text.
+
+```
+
+---
+
+# 18. Final Quality Checklist
+
+Before finalizing any prompt, check:
+
+### Message
+
+- Is the exact narration sentence included?
+
+- Is the core message stated clearly?
+
+- Does the image communicate the meaning rather than merely showing keywords?
+
+### Complexity
+
+- Is there one dominant idea?
+
+- Is there one clear focal point?
+
+- Are there only a few supporting elements?
+
+- Is the image interesting without being crowded?
+
+### Speed
+
+- Can the viewer understand it in 2–4 seconds?
+
+- Does the main idea remain obvious at a quick glance?
+
+### Character
+
+- If present, is the established Main Reference Character used?
+
+- Is his identity preserved?
+
+- Is he actually helping communicate the idea?
+
+### Design
+
+- Is the composition intentional?
+
+- Is there enough negative space?
+
+- Is text minimal?
+
+- Are the brand colors respected?
+
+- Is the approved visual style respected?
+
+### Final Principle
+
+> **Do not add detail merely to make the image richer.**
+
+>
+
+> **Add detail only when it makes the main idea clearer, more memorable, or more visually engaging.**
+
+The ideal slide should feel:
+
+**Simple to understand.  
+
+Rich enough to look designed.  
+
+Clear enough to understand in seconds.  
+
+Consistent enough to belong to the same channel.**
+
+---
+
+## 19. Output Format
+
+All generated slide images for this project must be:
+
+**1920 × 1080 px — 16:9 landscape**
+
+The established character reference and visual identity/style references are supplied separately when needed.
 
 ```
 ## Global Generation Rule
