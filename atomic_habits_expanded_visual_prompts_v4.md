@@ -1,2319 +1,1808 @@
-# Atomic Habits — Expanded Visual Prompt Pack
-**Channel:** Book Summaries  
-**Video:** Atomic Habits  
-**Format:** 16:9 — 1920 × 1080  
-**Purpose:** Expanded content-only image prompts for the full script
-
-```text
-میخواهم بهت محتوای اسلاید بدم و تو بر اساس قوانینی که بهت دادم طراحی کنی، دقت کن میخوام کاراکتر دقیقا همین باشه
-
-(ممکنه بعضی اسلایدا کاراکتر نخوان)
-
-سایز عکس هایی که میسازی 16 در 9 باشه
-VISUAL IDENTITY SYSTEM — MASTER SCRIPT
-Channel Visual Identity / Image Generation
-
-PURPOSE
-This document is the master visual guideline for generating images for the channel.
-Every generated slide must belong to the same visual identity, even when the subject,
-scene, or art style changes.
-
-==================================================
-1. REFERENCE SYSTEM
-==================================================
-
-Use the four provided reference boards as the source of truth:
-
-A. SIZE / COMPOSITION
-Defines the format, layout language, negative space, framing and visual hierarchy.
-
-B. MAIN REFERENCE CHARACTER
-Defines the recurring main character of the channel.
-
-C. ART STYLES
-Defines the approved illustration/art directions that can be selected for individual slides.
-
-D. COLOR PALETTE
-Defines the fixed brand colors.
-
-PRIORITY ORDER:
-1. Main character consistency
-2. Composition language
-3. Color palette
-4. Selected art style
-5. Subject-specific details
-
-==================================================
-2. MAIN REFERENCE CHARACTER
-==================================================
-
-The character shown in the Main Reference board is the primary recurring character
-and visual identity of the channel.
-
-Always use the established Main Reference Character when the slide requires the
-channel's main character.
-
-PRESERVE:
-- recognizable facial structure
-- facial proportions
-- hairstyle
-- beard and general facial hair
-- skin tone
-- general body proportions
-- overall recognizable appearance
-
-The character must remain recognizable across different slides, scenes, poses,
-camera angles and art styles.
-
-ALLOWED TO CHANGE:
-- pose
-- facial expression
-- clothing when appropriate
-- camera angle
-- environment
-- action
-- lighting
-
-DO NOT:
-- redesign the character
-- randomly change facial features
-- make the character look like a different person
-- exaggerate facial proportions without instruction
-- create a generic replacement character
-
-==================================================
-3. ART STYLE SYSTEM
-==================================================
-
-The Art Styles reference board defines the approved visual language.
-
-The art style may change from slide to slide, but it must be selected from or remain
-visually compatible with the approved Art Styles reference.
-
-When a specific art style is requested:
-- treat it as the primary style reference
-- preserve the main character's identity within that style
-- keep the composition and color identity consistent
-
-Do not combine unrelated styles unless explicitly requested.
-
-STYLE PRINCIPLE:
-Art style can change.
-Brand identity cannot.
-
-==================================================
-4. FIXED BRAND COLOR PALETTE
-==================================================
-
-Use the following colors as the official brand palette:
-
-Deep Green      #025042
-Dark Teal       #056758
-Warm Beige      #DBC7A4
-Crimson Pink    #C31048
-Deep Crimson    #A40032
-
-COLOR RULES:
-- These colors should dominate the visual system.
-- Deep Green, Dark Teal and Warm Beige are the preferred dominant colors.
-- Crimson Pink and Deep Crimson should primarily be used as accents.
-- Use visually compatible shades/tints when necessary, while keeping the original
-  palette recognizable.
-- Avoid strong unrelated colors unless they are essential to the subject.
-- Do not introduce random neon colors.
-- Do not let the art style override the brand palette.
-
-The final image should still feel like the same channel even when the illustration
-style changes.
-
-==================================================
-5. SIZE & COMPOSITION
-==================================================
-
-DEFAULT OUTPUT:
-1080 × 1920 px
-Vertical 9:16
-
-COMPOSITION LANGUAGE:
-- clean
-- editorial
-- modern
-- minimal
-- intentional
-- generous negative space
-- strong visual hierarchy
-- controlled asymmetry
-- rounded geometric framing
-- clear separation between subject and background
-
-Leave intentional negative space whenever text will be added later.
-
-Do not overcrowd the frame.
-Do not fill empty areas with unnecessary objects.
-
-The composition should feel designed rather than randomly generated.
-
-==================================================
-6. OVERALL VISUAL PERSONALITY
-==================================================
-
-The channel should feel:
-
-Modern
-Editorial
-Creative
-Smart
-Premium
-Playful but controlled
-Minimal
-Clean
-Distinctive
-Intentional
-
-AVOID:
-- generic AI aesthetics
-- stock-image appearance
-- excessive visual clutter
-- excessive gradients
-- random neon colors
-- unnecessary 3D effects
-- overly cinematic color grading
-- inconsistent character design
-- decorative elements without purpose
-- overly photorealistic visuals when an illustrated style is requested
-
-==================================================
-7. SLIDE GENERATION TEMPLATE
-==================================================
-
-For every new slide, use the following structure:
-
-NEW SLIDE
-
-SUBJECT:
-[What is the slide about?]
-
-MESSAGE:
-[What should the viewer understand?]
-
-MAIN CHARACTER:
-Use the established Main Reference Character.
-
-CHARACTER ACTION:
-[What is the character doing?]
-
-ART STYLE:
-[Select the desired approved Art Style.]
-
-COMPOSITION:
-[Where should the character/object be placed?]
-
-TEXT AREA:
-[Where should the text remain clear?]
-
-MOOD:
-[Desired emotional tone.]
-
-COLOR:
-Use the fixed brand palette.
-Prioritize:
-#025042
-#056758
-#DBC7A4
-#C31048
-#A40032
-
-FORMAT:
-1080 × 1920 px, vertical 9:16.
-
-==================================================
-8. FINAL GENERATION RULE
-==================================================
-
-Every image must look like it belongs to the same channel.
-
-Keep the following CONSTANT:
-- main character identity
-- brand color palette
-- composition language
-- visual hierarchy
-- overall design personality
-
-Allow the following to CHANGE:
-- topic
-- scene
-- pose
-- action
-- environment
-- selected art style
-- mood
-- supporting objects
-
-The final result must prioritize visual consistency over unnecessary detail.
-
-==================================================
-9. EXAMPLE REQUEST
-==================================================
-
-NEW SLIDE
-
-SUBJECT:
-AI is changing the way designers work.
-
-MESSAGE:
-Show the transformation from a traditional design workflow to an AI-assisted workflow.
-
-MAIN CHARACTER:
-Use the established Main Reference Character.
-
-CHARACTER ACTION:
-The character is sitting at a desk working on a computer while AI-generated visual
-concepts appear around him.
-
-ART STYLE:
-Use the most appropriate approved style from the Art Styles reference.
-
-COMPOSITION:
-Character on the right side.
-Large clean negative space on the left for typography.
-Use rounded vertical framing elements inspired by the Composition reference.
-
-TEXT AREA:
-Keep the left 40% visually clean.
-
-MOOD:
-Smart, creative, modern and slightly playful.
-
-COLOR:
-Strictly follow the fixed brand palette.
-Prioritize Deep Green, Dark Teal and Warm Beige.
-Use Crimson Pink and Deep Crimson as accents.
-
-FORMAT:
-1080 × 1920 px, vertical 9:16.
-
-DO NOT:
-- redesign the character
-- introduce unrelated colors
-- overcrowd the composition
-- use generic AI imagery
-- break the established visual identity
-
-```
-
-## Global Generation Rule
-
-These prompts describe **content only**. Use the established Main Reference Character and the approved visual identity/style references separately.
-
-When a character is requested:
-- Use the **exact established Main Reference Character**.
-- Preserve his face, hair, beard, skin tone, body proportions, and recognizable appearance.
-- Do not redesign or replace him with a generic character.
-
-When a character is not requested, do not add one unnecessarily.
-
-Every scene should:
-- tell one coherent visual story;
-- use the image itself to communicate the narration;
-- avoid generic icon grids, card layouts, tables, or collections of unrelated objects;
-- use minimal text only when a label materially helps;
-- maintain the established brand palette and composition language;
-- be composed for **16:9**.
+# Atomic Habits — Visual Storyboard & Image Prompts
+
+## Project Purpose
+
+This document converts the Atomic Habits narration script into a visual storyboard for a YouTube video.
+
+Each visual is designed around the meaning of the narration at that exact moment. The goal is not to create a random illustration for every paragraph, but to create a sequence of clear, simple, educational and visually engaging scenes.
+
+## Global Visual Rules
+
+- Use the established Main Reference Character whenever the narration benefits from a recurring character.
+- Preserve the character's recognizable face, facial proportions, hairstyle, beard, skin tone, body proportions and overall appearance.
+- Do not redesign the character or turn him into a generic replacement character.
+- Pose, expression, clothing, camera angle, environment, action and lighting may change.
+- Maintain the channel's established editorial, modern, clean, minimal and slightly playful visual identity.
+- Prioritize visual storytelling over unnecessary detail.
+- Avoid overcrowded compositions.
+- Use varied, natural colors while keeping the official brand palette visually dominant.
+- Official palette:
+  - Deep Green `#025042`
+  - Dark Teal `#056758`
+  - Warm Beige `#DBC7A4`
+  - Crimson Pink `#C31048`
+  - Deep Crimson `#A40032`
+- Crimson colors should mainly work as accents.
+- Avoid random neon colors, generic AI aesthetics, excessive gradients, excessive 3D effects and unnecessary decorative objects.
+- Default format in the current Visual Identity Master Script: `1920 × 1080 px, horizontal 16:9`.
 
 ---
 
-# SECTION 1 — INTRO
+# Section 1 — Intro
 
-## Beat 01 — “You've probably tried to build a new habit at some point.”
+## IMAGE 01 — Starting a New Habit
+
+**Narration:**  
+> You've probably tried to build a new habit at some point.
+
+**Visual Idea:**  
+The character is at the beginning of a path toward a better life. Around him are subtle hints of possible self-improvement.
+
+**Prompt:**
 
 ```text
-Create one coherent scene showing the main character at the beginning of a personal habit-change journey.
+Create a clean editorial illustrated scene using the established Main Reference Character from the attached character reference sheet.
 
-He stands at the entrance of a simple path leading toward a brighter, healthier version of his daily life. The path begins at his feet and continues forward into the distance.
+The character is standing at the beginning of a winding path, looking forward with a thoughtful but hopeful expression. In the distance, the path leads toward a brighter, healthier-looking future. Around him are a few subtle visual hints of possible self-improvement: running shoes, a healthy meal, a small book, and a phone placed slightly away.
 
-Around the starting area, subtle objects naturally suggest different possible improvements: workout shoes, a healthy meal, an alarm clock, a book, and a smartphone placed farther away.
+The main idea is "starting a new habit and wanting to change your life."
 
-The character looks motivated and optimistic, as if he has just decided that today will be different.
+Keep the scene simple and visually clear, not crowded. The character should be the main focus. Use the established character's exact facial structure, hairstyle, beard, body proportions and recognizable appearance.
 
-Do not arrange the objects as a checklist or infographic. They should belong naturally to one environment.
+Modern editorial illustrated style, hand-drawn texture, clean composition, controlled asymmetry, generous negative space, warm beige background with deep green and dark teal elements, small crimson accents.
 
-Use minimal or no text.
+No text, no typography.
+Horizontal 16:9.
 ```
 
-## Beat 02 — “Maybe you wanted to start working out.”
+## IMAGE 02 — Start Working Out
+
+**Narration:**  
+> Maybe you wanted to start working out.
+
+**Visual Idea:**  
+The character is preparing to exercise and looks motivated.
+
+**Prompt:**
 
 ```text
-Create a single energetic first-day workout scene.
+The established Main Reference Character standing on a simple exercise mat, preparing for a workout. He is wearing simple workout clothes and looking motivated, with dumbbells and a water bottle nearby. His posture should communicate "I'm finally going to start working out."
 
-The main character has just entered a clean, organized workout space and is beginning his first exercise session. He is putting effort into a simple dumbbell exercise, with a determined but optimistic expression.
+Clean, simple environment with enough visual context but no clutter. The character is the clear focal point.
 
-A small calendar on the wall has only the first day circled, subtly establishing that this is the beginning of a new routine.
+Preserve the exact character identity from the reference sheet. Do not redesign the face, hair, beard or body proportions.
 
-Keep the workout action as the clear focal point.
+Modern editorial hand-drawn illustration, warm beige background, deep green and dark teal dominant colors, subtle crimson accent, natural varied colors, clean visual hierarchy.
 
-No collection of exercise icons and no motivational poster wall. The scene should feel like one believable moment.
+No text.
+Horizontal 16:9.
 ```
 
-## Beat 03 — “Eat healthier.”
+## IMAGE 03 — Eat Healthier
+
+**Narration:**  
+> Eat healthier.
+
+**Visual Idea:**  
+The character chooses a healthy colorful meal while junk food is left aside.
+
+**Prompt:**
 
 ```text
-Create one coherent healthy-eating moment.
+The established Main Reference Character sitting at a simple table with a healthy colorful meal in front of him: vegetables, fruit, grains and a glass of water. On the far side of the table, subtly show a small pile of junk food being left untouched.
 
-The main character sits at a table and deliberately chooses a fresh, nutritious meal. A bowl of vegetables, fruit, and a glass of water form one natural meal in front of him.
+The character looks positive and determined, as if choosing a healthier lifestyle.
 
-Off to one side, an unopened package of junk food has been pushed away and is no longer the focus.
+Keep the composition simple and educational. Do not make the food arrangement overly detailed.
 
-The character looks satisfied and motivated, communicating that he has consciously chosen a healthier direction.
+Preserve the exact character identity from the reference sheet.
 
-Use no written explanation. Let the contrast between his choices tell the story.
+Modern editorial hand-drawn illustration, warm beige, deep green, dark teal, natural food colors with restrained crimson accents.
+
+No text.
+Horizontal 16:9.
 ```
 
-## Beat 04 — “Wake up earlier.”
+## IMAGE 04 — Wake Up Earlier
+
+**Narration:**  
+> Wake up earlier.
+
+**Visual Idea:**  
+The character wakes up early with morning light and an alarm clock.
+
+**Prompt:**
 
 ```text
-Create a calm early-morning bedroom scene.
+The established Main Reference Character waking up early in a simple bedroom. An alarm clock shows an early morning time, sunlight is entering through the window, and the character is sitting up in bed looking slightly sleepy but determined.
 
-The main character has just gotten out of bed as an alarm clock shows an early morning time. Soft morning light enters through the window.
+The visual should immediately communicate "waking up earlier."
 
-The important action is that he is already standing and beginning his day rather than reaching for the snooze button.
+Minimal bedroom, only a few meaningful objects: bed, alarm clock, window, simple clothes prepared nearby.
 
-A neatly prepared morning environment suggests that he intends to make this a routine.
+Clean editorial illustration, hand-drawn texture, warm beige and teal environment, subtle morning light.
 
-Keep the scene peaceful, fresh, and uncluttered.
+Preserve the exact character design.
+
+No text.
+Horizontal 16:9.
 ```
 
-## Beat 05 — “Spend less time on your phone.”
+## IMAGE 05 — Spend Less Time on Your Phone
+
+**Narration:**  
+> Or spend less time on your phone.
+
+**Visual Idea:**  
+The character deliberately puts his phone away.
+
+**Prompt:**
 
 ```text
-Create one scene showing the main character intentionally putting distance between himself and his phone.
+The established Main Reference Character sitting on a sofa with his smartphone in his hand. He looks at the phone for a moment, then deliberately places it on a table several steps away from him.
 
-He places the smartphone inside a drawer or on a table across the room, then turns toward a more meaningful activity such as reading or exercising.
+The phone should visually feel like a tempting distraction, while the character is choosing to step away from it.
 
-The phone remains visible enough to establish the temptation, but his body and attention clearly move away from it.
+Simple living room, no clutter. Strong visual storytelling through the distance between the character and the phone.
 
-The scene should communicate reduced phone use through his physical choice rather than through text.
+Preserve exact character identity.
+
+Modern editorial hand-drawn illustration, warm beige background, deep green and dark teal, restrained crimson accent.
+
+No text.
+Horizontal 16:9.
 ```
 
-## Beat 06 — “The first few days go well.”
+## IMAGE 06 — The Habit Fades
+
+**Narration:**  
+> The first few days go well. Maybe even two weeks. But then, slowly, everything goes back to the way it was.
+
+**Visual Idea:**  
+One continuous visual progression: motivated beginning → gradual decline → old behavior returns.
+
+**Prompt:**
 
 ```text
-Create a continuous visual story of the first successful days of a new routine.
+A single editorial illustration showing the same established Main Reference Character across three subtle stages of a habit journey.
 
-The main character moves confidently through his environment while small signs of consistency appear naturally: his workout shoes are used, a healthy meal is prepared, his alarm is followed, and his phone remains out of reach.
+Left: the character enthusiastically exercising, organized and motivated.
+Middle: the character still maintaining the habit after some time, but looking slightly less energetic.
+Right: the character back on the couch scrolling on his phone, with the exercise equipment abandoned in the background.
 
-A short trail of completed calendar days follows behind him.
+The three stages should visually flow from left to right, communicating: strong beginning → gradual decline → returning to old behavior.
 
-Do not create separate panels. Make it feel like one journey through several moments of a successful beginning.
+Keep the same character identity in all three stages.
 
-Small label only: “FIRST FEW DAYS”.
+Clean visual storytelling, not a comic panel grid. Use environmental transitions instead of hard borders.
+
+Modern hand-drawn editorial illustration, warm beige background, deep green and dark teal, varied natural colors, subtle crimson accents.
+
+No text.
+Horizontal 16:9.
 ```
 
-## Beat 07 — “Maybe even two weeks.”
+## IMAGE 07 — Self-Blame
+
+**Narration:**  
+> And then you tell yourself: I'm lazy. I have no willpower. I just can't stick with things.
+
+**Visual Idea:**  
+The character sits disappointed with himself, surrounded by unfinished habits.
+
+**Prompt:**
 
 ```text
-Continue the same visual journey several days later.
+The established Main Reference Character sitting alone on the edge of his bed, shoulders slightly lowered, looking disappointed in himself.
 
-The main character is still following the routine and now moves with more confidence. A wall calendar behind him shows approximately two weeks of completed days.
+Around him are subtle unfinished habit objects: unused running shoes, an unread book, a healthy meal left untouched, and a phone in his hand.
 
-His actions look less like an exciting first attempt and more like something that is beginning to become normal.
+Above or behind him, use simple visual thought symbols suggesting self-blame and frustration, but do not include readable text.
 
-Use one small label: “2 WEEKS”.
+The scene should communicate self-doubt and blaming yourself for failing to maintain habits.
 
-Keep the scene connected to the previous successful beginning.
+Do not make the character dramatically depressed. Keep the mood thoughtful, relatable and understated.
+
+Preserve exact character identity.
+
+Editorial hand-drawn illustration, warm beige, deep green and dark teal with restrained crimson accents.
+
+No text.
+Horizontal 16:9.
 ```
 
-## Beat 08 — “Slowly, everything goes back to the way it was.”
+## IMAGE 08 — The Problem Is the Method
+
+**Narration:**  
+> But here's the truth — the problem is not you. The problem is the method you're using.
+
+**Visual Idea:**  
+The character realizes he was on the wrong path and sees a clearer system ahead.
+
+**Prompt:**
 
 ```text
-Create one continuous scene showing a gradual return to old habits.
+A powerful conceptual illustration of the established Main Reference Character standing between two paths.
 
-The main character walks along the same path from the beginning, but the path now curves backward.
+On the left, a frustrating path is filled with obstacles, confusing signs, steep steps and repeated dead ends. The character looks like he has been struggling on this path.
 
-As he moves backward, the healthy routine subtly disappears: workout shoes remain unused, healthy food is replaced by convenience food, the alarm is ignored, and the phone returns to his hand.
+On the right, a clear structured path is visible, made of small simple steps leading forward.
 
-The transition should feel gradual rather than dramatic.
+The character is standing near the center, looking toward the clearer path with a moment of realization.
 
-The visual message is that old behavior slowly reclaims the space.
-```
+The main message is that the person is not the problem; the method is.
 
-## Beat 09 — “And then you tell yourself: I'm lazy.”
+Strong visual hierarchy, simple symbolic storytelling, premium editorial illustration.
 
-```text
-Create an introspective scene where the main character sits alone after abandoning his routine.
+Preserve exact character identity.
 
-Unused workout equipment, an untouched healthy meal, and an alarm clock surround him.
+Warm beige background, deep green and dark teal dominant colors, crimson used only as a small accent.
 
-His posture is lowered and disappointed as he looks at himself rather than at the environment.
-
-A small handwritten thought above him reads: “I’M LAZY.”
-
-The emotional idea is self-blame, not severe sadness.
-```
-
-## Beat 10 — “I have no willpower.”
-
-```text
-Create a visual metaphor for the character believing he has no willpower.
-
-He stands in front of an environment filled with easy distractions: a glowing smartphone, junk food, and a comfortable couch.
-
-He tries to move forward but appears physically drained, as though he believes his self-control is running out.
-
-Use a subtle handwritten label: “NO WILLPOWER”.
-
-Do not use a literal strength meter. Make the metaphor physical and human.
-```
-
-## Beat 11 — “I just can't stick with things.”
-
-```text
-Create one coherent scene showing repeated abandoned beginnings.
-
-The main character stands at the center of several unfinished paths. One path contains workout equipment, another contains books, another begins with healthy food, and another begins with an early-morning routine.
-
-Each path starts clearly but stops before reaching its destination.
-
-The character looks frustrated because he believes he cannot stay consistent.
-
-Use one small handwritten caption: “I CAN’T STICK WITH THINGS.”
-```
-
-## Beat 12 — “But here's the truth.”
-
-```text
-Create a visual turning point.
-
-The main character stands in the same confusing environment as before, surrounded by reminders of failed habits.
-
-A warm beam of light suddenly reveals something he had not noticed: the path itself is badly designed, full of unnecessary obstacles and loops.
-
-His expression changes from self-blame to realization.
-
-Use one short caption: “BUT HERE’S THE TRUTH”.
-
-The scene should feel like a perspective shift.
-```
-
-## Beat 13 — “The problem is not you.”
-
-```text
-Create a powerful metaphor separating the person from the problem.
-
-The main character stands normally and confidently beside a malfunctioning habit machine.
-
-The machine is tangled, confusing, and designed in a way that repeatedly sends him backward. He is not damaged or broken; the machine is.
-
-The character looks at the machine with a new understanding.
-
-Use one dominant caption: “THE PROBLEM IS NOT YOU.”
-```
-
-## Beat 14 — “The problem is the method you're using.”
-
-```text
-Continue the previous realization.
-
-The main character stands between two paths.
-
-The old method is steep, confusing, and full of friction, eventually looping back to the beginning.
-
-Beside it, a redesigned path uses small clear steps and leads steadily forward.
-
-The character studies the two paths and recognizes that the method, not his personality, created the repeated failure.
-
-Small labels only: “OLD METHOD” and “BETTER SYSTEM”.
-```
-
-## Beat 15 — “I want to walk you through Atomic Habits.”
-
-```text
-Create a clean hero scene introducing the book Atomic Habits.
-
-The main character stands beside a large open orange book titled “ATOMIC HABITS”.
-
-From the book, a simple visual path of tiny repeated actions leads outward: one page read, one workout step, one healthy choice, one early morning.
-
-The small actions gradually become a stronger path in the distance.
-
-The book is the visual anchor.
-
-Use the book title as the only major text.
-```
-
-## Beat 16 — “Why bad habits feel easy while good ones feel hard.”
-
-```text
-Create one physical landscape metaphor.
-
-The main character stands at the beginning of two paths.
-
-The bad-habit path is smooth, downhill, brightly tempting, and requires almost no effort.
-
-The good-habit path climbs gradually uphill and contains small manageable steps.
-
-The character looks at both paths, immediately understanding why one feels easier to start.
-
-Use only two labels: “EASY NOW” and “HARD NOW”.
-
-Do not create two infographic columns.
-```
-
-## Beat 17 — “Why focusing on goals is the wrong approach.”
-
-```text
-Create a scene where the main character is staring at a huge distant finish line marked “GOAL”.
-
-He has the destination clearly visible, but the road beneath his feet is unfinished and directionless.
-
-Beside him, another route contains a practical sequence of daily steps that actually moves forward.
-
-The contrast should communicate that knowing the destination is not enough.
-
-Use only “GOAL” and “SYSTEM”.
-```
-
-## Beat 18 — “How to build good habits that actually last.”
-
-```text
-Create a strong staircase metaphor.
-
-The main character climbs a staircase made from tiny repeated daily actions. Each step is small and manageable, but together they form a stable structure leading upward.
-
-At the bottom, the first steps are labeled subtly with actions such as “1 PAGE” and “SHOES ON”.
-
-The character looks calm rather than rushed.
-
-The staircase should communicate consistency and durability, not sudden transformation.
-```
-
-## Beat 19 — “How to break bad habits for good.”
-
-```text
-Create one coherent scene showing a bad habit losing its power.
-
-A tempting habit path once led directly toward the character, but he has gradually moved the cues farther away and placed obstacles between himself and the behavior.
-
-The old path now fades into the background while a clearer healthy path becomes dominant.
-
-The character walks forward without needing to fight the temptation physically.
-
-Use a small caption: “BREAK THE LOOP”.
+No text.
+Horizontal 16:9.
 ```
 
 ---
 
-# SECTION 2 — WHY BAD HABITS ARE EASY AND GOOD HABITS ARE HARD
+# Section 2 — Why Are Bad Habits Easy and Good Habits Hard?
 
-## Beat 20 — “Why do bad habits feel so natural?”
+## IMAGE 09 — Bad Habits Feel Natural
+
+**Narration:**  
+> Why do bad habits feel so natural? Why is picking up your phone, eating junk food, or staying up late so effortless?
+
+**Visual Idea:**  
+The character is surrounded by easy-access bad habits.
+
+**Prompt:**
 
 ```text
-Create an everyday scene where the main character reaches almost automatically toward a smartphone while sitting at a desk.
+The established Main Reference Character sitting comfortably on a couch.
 
-His hand moves before he consciously decides to do it.
+Three bad habits appear naturally around him:
+he casually reaches for a smartphone,
+junk food is within easy reach,
+and a clock shows late at night.
 
-The environment should make the phone highly accessible and visually tempting, while the character looks only mildly aware of what he is doing.
+Everything is effortless: the phone is right beside him, snacks are within arm's reach, and he looks relaxed.
 
-A subtle circular motion around the hand can suggest automatic behavior.
+The visual should communicate that bad habits require almost no effort.
 
-No explanatory text is necessary.
+Clean, simple editorial illustration. No clutter.
+
+Preserve exact character identity.
+
+Warm beige background, deep green and dark teal, natural food colors, restrained crimson accents.
+
+No text.
+Horizontal 16:9.
 ```
 
-## Beat 21 — “Picking up your phone is effortless.”
+## IMAGE 10 — Immediate Reward
+
+**Narration:**  
+> Bad habits reward you right now. With almost no effort.
+
+**Prompt:**
 
 ```text
-Create a close, simple scene of the main character reaching for a phone that is already directly beside his hand.
+A conceptual split scene.
 
-The phone lights up at exactly the moment he touches it.
+On the left, the established Main Reference Character reaches for his phone and immediately receives a small satisfying visual burst from the screen.
 
-The action requires almost no effort, and his expression briefly becomes satisfied.
+On the right, he reaches toward a bowl of sweet junk food and enjoys the immediate reward.
 
-Make the physical convenience of the behavior obvious through proximity and ease.
+The important idea is immediate reward with almost zero effort.
+
+Use simple visual symbols rather than literal scientific diagrams.
+
+Modern editorial illustration, clean composition, controlled colors, warm beige, deep green and teal with small crimson accents.
+
+No text.
+Horizontal 16:9.
 ```
 
-## Beat 22 — “Eating junk food is effortless.”
+## IMAGE 11 — Dopamine Hit
+
+**Narration:**  
+> When you pick up your phone, you get a small dopamine hit immediately.
+
+**Prompt:**
 
 ```text
-Create a kitchen scene where a sweet snack is already within easy reach.
+Close conceptual view of the established Main Reference Character picking up his smartphone.
 
-The main character opens the package and takes a bite almost without interrupting what he was doing.
+A small burst of simple glowing reward particles emerges from the phone toward the character's brain, visually representing an immediate dopamine reward.
 
-The snack is immediately available while preparing a healthier meal would require more effort in the background.
+Keep it educational and simple, not a medical diagram.
 
-Focus on the effortless immediate choice.
+The phone should be visually attractive and the reward should happen instantly.
+
+Preserve exact character identity.
+
+Editorial illustrated style, warm beige, deep green and dark teal, subtle crimson highlight.
+
+No text.
+Horizontal 16:9.
 ```
 
-## Beat 23 — “Bad habits reward you right now.”
+## IMAGE 12A — Exercise Has Immediate Effort
+
+**Narration:**  
+> When you work out, you feel pain right now.
+
+**Prompt:**
 
 ```text
-Create one visual metaphor of immediate payoff.
+The established Main Reference Character doing a difficult workout, slightly tired, with effort visible through posture and facial expression.
 
-The main character presses a simple button and receives a small glowing reward instantly.
+A small delayed reward symbol such as a distant trophy or healthier future version appears far in the background, visually separated from him.
 
-The reward appears immediately in front of him, while a distant future reward remains far down another path.
+Simple, relatable, non-dramatic.
 
-Use one short label above the instant reward: “RIGHT NOW”.
+Preserve exact character identity.
 
-The scene should make immediacy physically obvious.
+No text.
+Horizontal 16:9.
 ```
 
-## Beat 24 — “When you eat something sweet, you enjoy it in the moment.”
+## IMAGE 12B — Diet Has Immediate Hunger
+
+**Narration:**  
+> When you diet, you feel hungry right now.
+
+**Prompt:**
 
 ```text
-Create a close everyday moment where the main character takes a bite of a sweet dessert and immediately relaxes with a pleased expression.
+The established Main Reference Character sitting at a table with a healthy simple meal while a tempting dessert sits farther away.
 
-A small visual spark appears at the moment of the bite to emphasize immediate pleasure.
+He looks hungry and slightly frustrated, showing that the immediate experience is not rewarding.
 
-No long-term consequence should dominate the image. The point is that the reward arrives instantly.
+Clean editorial illustration, simple composition.
+
+Preserve exact character identity.
+
+No text.
+Horizontal 16:9.
 ```
 
-## Beat 25 — “When you work out, you feel pain right now.”
+## IMAGE 12C — Reading Has No Visible Result
+
+**Narration:**  
+> When you read, you see no visible result right now.
+
+**Prompt:**
 
 ```text
-Create a realistic but stylized workout moment.
+The established Main Reference Character sitting on a chair reading a book.
 
-The main character has just finished a difficult repetition and pauses, breathing heavily with tired muscles.
+He looks calm but slightly uncertain because there is no obvious visible result yet. Around him there are no dramatic achievements, just the simple act of reading.
 
-A distant bright symbol representing improved health is visible far ahead, but it is clearly not available yet.
+The visual message: good habits often provide no immediate visible reward.
 
-The immediate physical effort should dominate the scene.
+Preserve exact character identity.
+
+No text.
+Horizontal 16:9.
 ```
 
-## Beat 26 — “When you diet, you feel hungry right now.”
+## IMAGE 13 — Delayed Reward
+
+**Narration:**  
+> The reward for a good habit is delayed — it comes weeks or months later.
+
+**Prompt:**
 
 ```text
-Create an evening kitchen scene.
+The established Main Reference Character planting a tiny seed into soil.
 
-The main character sits near a healthy meal while looking hungry and tempted by food.
+In front of him is only a tiny seedling with almost no visible result. In the distant background, the same plant has grown into a large healthy tree.
 
-The immediate feeling of hunger is visually clear through his expression and posture, while a distant healthier future remains subtle.
+The character is looking at the tiny seedling while the large future tree is visible far away.
 
-Do not make the scene tragic. It should simply communicate delayed reward.
+Clear metaphor for delayed rewards.
+
+Premium editorial illustration, warm beige, deep green and teal, natural plant colors.
+
+No text.
+Horizontal 16:9.
 ```
 
-## Beat 27 — “When you read, you see no visible result right now.”
+## IMAGE 14 — Immediate vs Future
+
+**Narration:**  
+> Our brains are wired to prefer immediate rewards over future ones.
+
+**Prompt:**
 
 ```text
-Create a quiet reading scene.
+A conceptual illustration of the established Main Reference Character standing between two choices.
 
-The main character sits with an open book and reads carefully.
+One path offers a small bright reward immediately: smartphone, sweets and entertainment.
 
-Around him, nothing dramatic changes: the room looks exactly the same and there is no visible achievement yet.
+The other path leads toward distant rewards: fitness, books, achievement and a healthier lifestyle.
 
-Far in the background, barely visible, the path created by many future reading sessions leads toward a larger stack of books.
+The immediate path is visually closer and more tempting; the future path is longer but more meaningful.
 
-The point is that the immediate result is almost invisible.
-```
+Keep the visual simple and symbolic.
 
-## Beat 28 — “Our brains prefer immediate rewards.”
+Preserve exact character identity.
 
-```text
-Create a large stylized visual metaphor of the brain choosing between two roads.
-
-A short glowing road leads immediately to a reward, while a longer winding road leads toward a distant reward behind a clock.
-
-The short road is physically closer and easier to reach.
-
-Use one dominant caption: “REWARD NOW”.
-
-Do not make this a medical anatomy diagram.
-```
-
----
-
-# SECTION 3 — ABOUT THE BOOK
-
-## Beat 29 — “Atomic means tiny.”
-
-```text
-Create a macro visual scene of one tiny glowing atom-like particle.
-
-The tiny particle is held visually against a large environment so its small scale is obvious.
-
-Around it, several identical tiny particles are beginning to gather, hinting that something very small can become meaningful through accumulation.
-
-Use one small label: “TINY”.
-```
-
-## Beat 30 — “Small habits stack on top of each other.”
-
-```text
-Create a physical accumulation scene.
-
-One tiny building block sits at the bottom. More identical small blocks are gradually stacked into a stable structure that becomes much larger than the first piece.
-
-The main character can place the next tiny block by hand.
-
-The visual should emphasize repetition rather than a sudden jump.
-```
-
-## Beat 31 — “Small habits eventually build a completely different life.”
-
-```text
-Create one continuous transformation landscape.
-
-In the foreground, the main character performs one tiny daily action.
-
-Following behind him, a trail of repeated small actions gradually transforms the environment: a stronger body, a cleaner workspace, books completed, healthier meals, and a calmer routine appear as natural consequences farther along the same path.
-
-Do not show separate cards or before/after panels.
-
-The entire environment should evolve along one continuous journey.
-```
-
-## Beat 32 — “Big change doesn't require big actions.”
-
-```text
-Create a scene where the main character stands beside an enormous finished structure.
-
-Instead of using a giant tool, he is holding one tiny brick and placing it into the structure.
-
-Thousands of tiny bricks make up the large result.
-
-The visual contradiction between the tiny action and enormous result should carry the message.
-
-Minimal caption: “SMALL ACTIONS”.
-```
-
----
-
-# SECTION 4 — THE POWER OF 1%
-
-## Beat 33 — “Just 1% better every single day.”
-
-```text
-Create a long staircase made from extremely small steps.
-
-The main character takes one tiny step upward while a small “+1%” mark appears near that step.
-
-Farther along the staircase, hundreds of tiny steps accumulate into a dramatic climb.
-
-The beginning should look almost insignificant compared with the distant height.
-
-Use “+1% EVERY DAY” only once.
-```
-
-## Beat 34 — “1.01 to the power of 365 equals 37.”
-
-```text
-Create a visual growth transformation rather than a math-heavy equation.
-
-One tiny upward step begins at the bottom and gradually becomes a huge ascending structure over the course of the image.
-
-At the far end, the accumulated structure reaches a bright marker labeled “×37”.
-
-Keep the mathematical expression small and secondary.
-
-The visual should communicate compounding.
-```
-
-## Beat 35 — “1% worse every day.”
-
-```text
-Create a second continuous path beginning at the same starting point.
-
-This path descends through tiny repeated downward steps.
-
-The main character becomes smaller and less confident as the path continues downward.
-
-At the far end, the path approaches a tiny marker labeled “0.03”.
-
-Use the same origin as the positive path if both paths are shown together.
-```
-
-## Beat 36 — “This is the power of compounding.”
-
-```text
-Create a physical snowball-style metaphor.
-
-A tiny object starts rolling down a long gentle slope. As it travels, repeated small additions cause it to grow larger and larger.
-
-By the far end, the object has become dramatically larger than when it started.
-
-The main character watches from the side, surprised by the scale of the result.
-
-Avoid a financial chart.
-```
-
-## Beat 37 — “15 minutes a day becomes 90 hours a year.”
-
-```text
-Create a visual time ribbon beginning with an open book and a small clock showing “15 MIN”.
-
-The ribbon of time travels across many calendar days and gradually becomes a large stack of completed books.
-
-At the far end, a simple marker reads “90 HOURS”.
-
-The accumulation of reading sessions should be visually obvious.
+No text.
+Horizontal 16:9.
 ```
 
 ---
 
-# SECTION 5 — THE VALLEY OF DISAPPOINTMENT
+# Section 3 — About the Book
 
-## Beat 38 — “Week one, week two, month one — nothing seems to happen.”
+## IMAGE 15 — The Book
+
+**Narration:**  
+> The book is called Atomic Habits, written by James Clear.
+
+**Prompt:**
 
 ```text
-Create a long hallway representing time.
+The established Main Reference Character standing beside a large open book representing Atomic Habits.
 
-The main character walks forward while the environment around him barely changes.
+The book is the secondary focal point, while the character introduces it naturally with one hand.
 
-Small markers along the floor read “WEEK 1”, “WEEK 2”, and “MONTH 1”.
+Keep the book design generic and clean; do not reproduce a detailed copyrighted cover.
 
-He looks increasingly uncertain because his effort is not producing visible results.
+Warm beige background, deep green and teal, editorial illustration.
 
-However, beneath the floor, subtle glowing roots are growing underground, hinting that change is happening invisibly.
+No readable text required.
+Horizontal 16:9.
 ```
 
-## Beat 39 — “First hit — nothing.”
+## IMAGE 16 — Atomic Means Tiny
+
+**Narration:**  
+> Atomic means tiny — extremely small.
+
+**Prompt:**
 
 ```text
-Create a single focused moment of the main character hitting a wooden door.
+A conceptual comparison: a tiny atom floating beside the established Main Reference Character's fingertip.
 
-The door looks completely untouched after the first hit.
+The atom is intentionally extremely small compared with the character.
 
-The character looks determined but slightly confused.
+Simple educational illustration with clean scale contrast.
 
-Keep the frame simple and make the solid door dominate the scene.
+Preserve exact character identity.
+
+No text.
+Horizontal 16:9.
 ```
 
-## Beat 40 — “Tenth hit — nothing.”
+## IMAGE 17 — Atoms Become Molecules
+
+**Narration:**  
+> Just like atoms combine to form molecules, small habits stack on top of each other and eventually build a completely different life.
+
+**Prompt:**
 
 ```text
-Show the same wooden door after repeated effort.
+A clean conceptual progression from left to right.
 
-The main character hits it again. From the outside, the door still appears almost unchanged.
+Left: one tiny simple atom.
+Middle: several atoms connecting into a molecule.
+Right: many small connected elements transforming into a visual representation of a richer, healthier life — exercise, books, healthy food, productivity and confidence.
 
-A small “10” mark can appear subtly near the door.
+The progression should communicate: tiny things → compound together → create something much bigger.
 
-The important idea is invisible progress.
+No character necessary.
+
+Modern editorial educational illustration, clean geometric composition, warm beige background, deep green and dark teal, natural varied colors, small crimson accents.
+
+No text.
+Horizontal 16:9.
 ```
 
-## Beat 41 — “Fiftieth hit — nothing.”
+## IMAGE 18 — Small Consistent Actions
+
+**Narration:**  
+> Big change doesn't require big actions. It requires small, consistent actions repeated over time.
+
+**Prompt:**
 
 ```text
-Continue the same physical scene.
+The established Main Reference Character walking up a staircase made of many tiny steps.
 
-The door now has extremely subtle cracks, but they are easy to overlook.
+Each step is small and manageable, but together they lead toward a large bright destination at the top.
 
-The main character continues striking it with determination.
+The character should be taking one small step rather than making a huge jump.
 
-A small “50” marker appears beside the cracks.
+Simple powerful metaphor for consistency.
 
-The outside still looks like almost nothing has changed.
-```
+Preserve exact character identity.
 
-## Beat 42 — “Ninetieth hit — nothing.”
-
-```text
-Continue the same door metaphor.
-
-The door now contains many hidden structural cracks beneath the surface, with only a few visible from outside.
-
-The character looks exhausted but keeps going.
-
-A small “90” marker appears.
-
-The scene should create tension because the breakthrough is close but not yet visible.
-```
-
-## Beat 43 — “The 101st hit — the door breaks open.”
-
-```text
-Create the climax of the door metaphor.
-
-The main character lands the next hit and the wooden door finally breaks open.
-
-Behind it is a bright open path representing the breakthrough.
-
-Show the moment as the culmination of all previous hits, not as if one hit magically created the result.
-
-A small “101” marker can appear on the broken door.
-```
-
-## Beat 44 — “Every hit before it mattered.”
-
-```text
-Create a cutaway view of the wooden door.
-
-The front surface shows the final crack, but the interior reveals hundreds of smaller structural fractures created by earlier hits.
-
-The main character stands beside the opened door, realizing that the visible breakthrough was only the final stage of an invisible accumulation.
-
-No extra explanation is needed.
-```
-
-## Beat 45 — “Valley of Disappointment.”
-
-```text
-Create a wide valley landscape representing habit progress.
-
-The main character begins on a rising path full of effort, but the visible progress line dips into a deep valley where the landscape looks flat and disappointing.
-
-A distant peak is visible beyond the valley.
-
-The character stands near the lowest point, tempted to turn back, while a subtle path continues toward the breakthrough.
-
-Use one dominant label: “VALLEY OF DISAPPOINTMENT”.
-```
-
-## Beat 46 — “The place where most people quit.”
-
-```text
-Create a crossroads inside the Valley of Disappointment.
-
-The main character stands at the lowest point of the path.
-
-One direction leads backward toward the familiar starting point, while the other continues through the valley toward a distant bright breakthrough.
-
-The backward path looks easier.
-
-The character hesitates, making the decision to continue visually meaningful.
-
-Minimal labels: “QUIT” and “KEEP GOING”.
-```
-
-## Beat 47 — “Missing one day doesn't erase the system.”
-
-```text
-Create a habit calendar with a long continuous streak.
-
-One day in the middle is marked with a red X.
-
-The following day immediately continues with a strong green checkmark, and the path of completed days keeps moving forward.
-
-The main character calmly marks the next successful day.
-
-Use one caption: “ONE DAY ≠ FAILURE”.
+No text.
+Horizontal 16:9.
 ```
 
 ---
 
-# SECTION 6 — GOALS VS. SYSTEMS
+# Section 4 — The Power of 1% Better
 
-## Beat 48 — “Every team wants to win.”
+## IMAGE 19 — 1% Better Every Day
+
+**Narration:**  
+> If you get just 1% better every single day...
+
+**Prompt:**
 
 ```text
-Create one sports stadium scene.
+The established Main Reference Character standing beside a staircase that rises gradually.
 
-Several competing teams stand beneath the same giant banner reading “WIN”.
+Each step represents a tiny incremental improvement. The character is taking one small step upward.
 
-Every team is looking toward the same trophy.
+The overall image should make "small improvement every day" immediately understandable.
 
-The scene should make it obvious that wanting the same result is not enough to determine who wins.
+Clean educational editorial illustration.
 
-Avoid presenting the teams as a static infographic.
+Preserve exact character identity.
+
+No large typography.
+Horizontal 16:9.
 ```
 
-## Beat 49 — “Why does only one team walk away with the trophy?”
+## IMAGE 20 — 37 Times Better
+
+**Narration:**  
+> After one year you'll be 37 times better than you are right now.
+
+**Prompt:**
 
 ```text
-Create the moment after a competition.
+A visual transformation of the same established Main Reference Character.
 
-One team walks toward the trophy while the other teams remain behind.
+On the left, a smaller simple version of the character at the beginning of the journey.
 
-The important visual difference is not their desire for the trophy — all of them wanted it — but the preparation and routine that led one team there.
+On the right, the same character after a long period of consistent improvement: confident posture, healthier environment, books, exercise equipment and organized surroundings.
 
-Keep the trophy visible but secondary to the process.
+A visual "×37" concept can appear between them as a large graphic element.
+
+Preserve the character's identity in both versions.
+
+No unnecessary text.
+Horizontal 16:9.
 ```
 
-## Beat 50 — “Their systems are different.”
+## IMAGE 21 — 1% Worse
+
+**Narration:**  
+> If you get 1% worse every day, after one year you'll be near zero.
+
+**Prompt:**
 
 ```text
-Create one training environment with two teams preparing for the same competition.
+A visual inverse of the previous concept.
 
-Both have the same goal banner in the distance.
+A path gradually declines downward from left to right. The established Main Reference Character slowly loses progress along the path: exercise equipment becomes abandoned, books disappear into the background, and the environment becomes increasingly inactive.
 
-One team is surrounded by organized repeated routines: training, recovery, sleep, nutrition, and practice.
+The decline should be symbolic, not depressing.
 
-The other team has scattered equipment and inconsistent preparation.
+Clean educational illustration.
 
-The contrast should feel environmental rather than like two infographic columns.
+Preserve exact character identity.
 
-Use only “GOAL” and “SYSTEM”.
+No text.
+Horizontal 16:9.
 ```
 
-## Beat 51 — “A system is the daily actions you actually take.”
+## IMAGE 22 — Compounding
+
+**Narration:**  
+> This is the power of compounding.
+
+**Prompt:**
 
 ```text
-Create a continuous daily-routine pathway.
+Show a tiny snowball rolling down a gentle hill and gradually becoming much larger.
 
-The main character moves through a day while repeated actions physically form the path beneath him: waking, exercising, eating well, working, and sleeping.
+The established Main Reference Character watches from the side as the tiny initial action creates a much larger result over time.
 
-No single action looks dramatic.
+Use a simple visual metaphor for compounding.
 
-Together, the repeated actions create a stable road forward.
+Warm beige landscape, deep green and teal, varied natural colors.
 
-Use one small caption: “DAILY ACTIONS”.
-```
-
-## Beat 52 — “The messy room example.”
-
-```text
-Create a single-room transformation scene.
-
-The main character stands in a messy bedroom and looks at a thought bubble containing the desired result: “CLEAN ROOM”.
-
-Instead of magically cleaning it, he begins a tiny five-minute routine: picking up clothes and putting away books.
-
-The room gradually becomes cleaner as a natural result of repeated small actions.
-
-Do not use a before/after split panel.
-```
-
-## Beat 53 — “Five minutes every night.”
-
-```text
-Create a calm nighttime bedroom scene.
-
-The main character spends only a few minutes tidying before going to bed.
-
-A small clock indicates a short amount of time, while the room is left orderly.
-
-A subtle trail of previous evenings can be shown through repeated small checkmarks in the background.
-
-The message is that the system is simple enough to repeat.
-```
-
-## Beat 54 — “Goals disappear once you reach them.”
-
-```text
-Create a mountain-top scene.
-
-The main character reaches a large flag marked “GOAL”.
-
-He looks at the destination with satisfaction, but the path suddenly ends.
-
-Behind him, the continuous daily system that brought him there is fading.
-
-The image should subtly communicate that a goal is an endpoint, while a system can continue.
+No text.
+Horizontal 16:9.
 ```
 
 ---
 
-# SECTION 7 — IDENTITY: OUTCOME
+# Section 5 — The Valley of Disappointment
 
-## Beat 55 — “I want to lose weight.”
+## IMAGE 23 — No Visible Results
+
+**Narration:**  
+> Week one, week two, month one — it feels like nothing is happening.
+
+**Prompt:**
 
 ```text
-Create a scene centered on a distant target.
+The established Main Reference Character standing in front of a simple progress chart.
 
-The main character stands outside a large target representing a desired physical result.
+The line remains almost flat despite the character repeatedly putting in effort: exercising, reading and practicing.
 
-He reaches toward the result but remains separated from it by distance.
+The character looks confused because the effort is happening but visible progress is almost nonexistent.
 
-Keep the target visually attractive but emphasize that it is something he wants to obtain.
+The chart should be visually simple and easy to understand.
 
-Minimal label: “WHAT I WANT”.
+No large text.
+Horizontal 16:9.
 ```
 
-## Beat 56 — “I want to make more money.”
+## IMAGE 24 — Repeated Hits
+
+**Narration:**  
+> Imagine you're hitting a wooden door. First hit — nothing. Tenth hit — nothing. Fiftieth — nothing. Ninetieth — nothing.
+
+**Prompt:**
 
 ```text
-Create one coherent scene where the main character looks toward a distant financial result.
+The established Main Reference Character repeatedly hitting a large wooden door with a simple hammer.
 
-A large rising stack of coins or a financial destination is visible far ahead.
+Show multiple subtle stages of the same door across the scene: first hit, repeated hits, many hits.
 
-The character stands at the beginning of the path and reaches toward the result.
+Despite all the effort, the door appears almost unchanged from the outside.
 
-The emphasis is on wanting an outcome, not yet changing identity.
+The character should look increasingly tired but persistent.
+
+Simple educational storytelling, no violence or injury.
+
+Preserve exact character identity.
+
+No text.
+Horizontal 16:9.
 ```
 
-## Beat 57 — “I want to write a book.”
+## IMAGE 25 — 101st Hit
+
+**Narration:**  
+> But on the 101st hit — the door breaks open.
+
+**Prompt:**
 
 ```text
-Create a scene where the main character stands outside a finished book represented as a large physical object.
+The established Main Reference Character standing in front of the wooden door as it finally opens after many previous attempts.
 
-He looks toward it as a destination.
+The door is now visibly open, revealing bright space beyond it.
 
-In front of him is a long empty writing desk/path, showing that the desired result exists in the future but the process has not yet begun.
+The character looks surprised and relieved.
 
-Minimal label: “OUTCOME”.
+The scene should emphasize that the breakthrough comes after many invisible efforts.
+
+Preserve exact character identity.
+
+No text.
+Horizontal 16:9.
 ```
 
----
+## IMAGE 26 — Invisible Progress
 
-# SECTION 8 — IDENTITY: PROCESS
+**Narration:**  
+> No. Every single hit before it did. Each one weakened the structure of the door, even when you couldn't see any visible change from the outside.
 
-## Beat 58 — “What do I do?”
+**Prompt:**
 
 ```text
-Create a visual machine built from daily actions.
+A conceptual cross-section of the same wooden door.
 
-The main character feeds simple repeated actions into a moving mechanism: writing a page, exercising, preparing food, and following a routine.
+Outside, the door looks almost unchanged.
+Inside, show many small cracks and weakened structures accumulated from previous hits.
 
-The mechanism turns continuously and produces visible progress.
+The established Main Reference Character stands beside it, observing the hidden damage.
 
-Use one dominant label: “WHAT I DO”.
+Educational metaphor: invisible progress was happening underneath.
+
+Preserve exact character identity.
+
+No text.
+Horizontal 16:9.
 ```
 
-## Beat 59 — “I exercise for 30 minutes every day.”
+## IMAGE 27 — Valley of Disappointment
+
+**Narration:**  
+> James Clear calls this the "Valley of Disappointment" — the place where most people quit. Right before the breakthrough.
+
+**Prompt:**
 
 ```text
-Create one focused routine scene.
+The established Main Reference Character walking through a valley between two hills.
 
-The main character exercises while a simple clock shows a 30-minute workout.
+The path goes downward into a low valley where progress appears flat and discouraging. Just beyond the valley, the path suddenly rises sharply toward a bright breakthrough point.
 
-The visual should emphasize repetition and routine rather than athletic achievement.
+The character is currently inside the valley, looking toward the distant rise.
 
-A subtle series of repeated workout moments can trail behind him as ghosted motion, showing daily consistency.
-```
+The visual should communicate: "You are closer to the breakthrough than you think."
 
-## Beat 60 — “I write 500 words every morning.”
+Clean editorial landscape, strong composition, warm beige, deep green and dark teal, subtle crimson accent.
 
-```text
-Create an early-morning writing scene.
-
-The main character sits at a desk with a notebook or computer and writes while morning light enters the room.
-
-A small counter reaches “500 WORDS”.
-
-The scene should feel routine and repeatable rather than heroic.
-```
-
----
-
-# SECTION 9 — IDENTITY: WHO I AM
-
-## Beat 61 — “I am a healthy person.”
-
-```text
-Create a powerful identity scene around the main character and a large mirror.
-
-The character looks at his reflection.
-
-Instead of showing a fantasy transformation, the reflection subtly emphasizes the person he is becoming: calm, healthy, organized, and consistent.
-
-Healthy choices appear naturally around the reflection.
-
-Use one dominant phrase: “I AM”.
-```
-
-## Beat 62 — “I am a writer.”
-
-```text
-Create a quiet identity-focused writing scene.
-
-The main character sits naturally at his desk writing.
-
-Around the scene, finished pages and completed manuscripts subtly accumulate.
-
-The visual should communicate that writing is not merely a goal or task — it has become part of who he is.
-
-Minimal text: “I AM A WRITER”.
-```
-
-## Beat 63 — “I am a disciplined person.”
-
-```text
-Create one everyday morning scene showing discipline as normal behavior.
-
-The main character wakes, makes the bed, prepares his routine, and begins the day's first task without dramatic effort.
-
-His posture is calm and automatic.
-
-The visual should make discipline look like an identity expressed through ordinary actions.
-```
-
-## Beat 64 — “I'm trying to quit.”
-
-```text
-Create a social scene where someone offers the main character a cigarette.
-
-He hesitates while looking at it.
-
-His body language suggests that he still sees the cigarette as something connected to him, even though he is resisting it.
-
-A small speech bubble reads: “I’M TRYING TO QUIT”.
-```
-
-## Beat 65 — “I'm not a smoker.”
-
-```text
-Continue the same social situation.
-
-The main character calmly pushes the cigarette away with a confident expression.
-
-His posture is relaxed rather than strained.
-
-A small speech bubble reads: “I’M NOT A SMOKER”.
-
-The important difference is identity, not stronger willpower.
-```
-
-## Beat 66 — “Identity is the deepest level.”
-
-```text
-Create a physical layered structure like a deep underground foundation.
-
-The outer visible layer is labeled “OUTCOME”.
-
-Below it is “PROCESS”.
-
-At the deepest, strongest foundation is a glowing core labeled “IDENTITY”.
-
-The main character stands beside the structure, looking toward the foundation.
-
-Make the identity layer physically support everything above it.
+No text.
+Horizontal 16:9.
 ```
 
 ---
 
-# SECTION 10 — THE HABIT LOOP
+# Section 6 — Goals vs Systems
 
-## Beat 67 — “Every habit has four stages.”
+## IMAGE 28 — Everyone Has the Same Goal
+
+**Narration:**  
+> Every team in a sports competition has the same goal — to win.
+
+**Prompt:**
 
 ```text
-Create one continuous circular mechanism around the main character.
+A sports competition scene with several different teams standing on a field.
 
-The mechanism moves through four connected moments rather than four detached boxes.
+All teams are looking toward the same trophy in the distance.
 
-A trigger begins the movement, desire pulls the character forward, an action follows, and an immediate reward completes the cycle.
+The established Main Reference Character can appear as an observer on the side.
 
-The mechanism visibly loops back to the beginning.
+The visual point: everyone wants the same outcome.
 
-Use the four labels only: “CUE”, “CRAVING”, “RESPONSE”, “REWARD”.
+Simple editorial illustration, no specific real team logos.
+
+No text.
+Horizontal 16:9.
 ```
 
-## Beat 68 — “Cue: the phone is sitting on the desk.”
+## IMAGE 29 — Systems Are Different
+
+**Narration:**  
+> Because their systems are different. Not their goals.
+
+**Prompt:**
 
 ```text
-Create a quiet desk scene.
+Show two sports teams with the same trophy destination but completely different preparation routines.
 
-The main character works while a smartphone sits visibly on the desk.
+One team has organized training, sleep, nutrition and practice.
+The other team has chaotic preparation and inconsistent routines.
 
-The phone suddenly lights up.
+Both are looking toward the same trophy.
 
-The character's attention begins moving toward it.
+Strong visual contrast without making the scene crowded.
 
-A subtle label near the phone reads “CUE”.
+No text.
+Horizontal 16:9.
 ```
 
-## Beat 69 — “Craving: you want to be distracted.”
+## IMAGE 30 — What Is a System?
+
+**Narration:**  
+> It's the daily actions you actually take.
+
+**Prompt:**
 
 ```text
-Continue the same scene.
+The established Main Reference Character surrounded by a simple circular daily routine: waking up, exercising, eating healthy, reading, sleeping.
 
-The main character looks bored while staring at the glowing phone.
+The actions form a repeating cycle around him.
 
-A visual pull or magnetic glow connects his attention to the phone.
+The visual should communicate that a system is made from repeated daily behaviors.
 
-The desire is represented as an irresistible attraction rather than a physical action.
-
-Label only: “CRAVING”.
+No text.
+Horizontal 16:9.
 ```
 
-## Beat 70 — “Response: you pick up the phone.”
+## IMAGE 31 — The Goal Does Not Clean the Room
+
+**Narration:**  
+> Your goal is: "I want my room to be clean." But that goal doesn't clean your room.
+
+**Prompt:**
 
 ```text
-Show the main character's hand reaching for and lifting the phone.
+The established Main Reference Character standing in a messy bedroom.
 
-The movement should feel automatic and almost effortless.
+He is looking at the room with the intention of cleaning it, but simply having the goal clearly doesn't change anything.
 
-His attention is now completely captured.
+Objects are scattered around: clothes, books and everyday items.
 
-Label only: “RESPONSE”.
+Keep clutter controlled and visually readable.
+
+Preserve exact character identity.
+
+No text.
+Horizontal 16:9.
 ```
 
-## Beat 71 — “Reward: entertainment.”
+## IMAGE 32 — Five Minutes Every Night
+
+**Narration:**  
+> If you have a system — say, five minutes of tidying up every night before bed — your room stays clean automatically.
+
+**Prompt:**
 
 ```text
-Create the immediate payoff.
+The established Main Reference Character spending a few minutes tidying his room before going to bed.
 
-The main character looks relaxed and entertained as the phone screen fills his attention.
+His room is organized and he is putting away a few small objects as part of a simple nightly routine.
 
-A small satisfying glow surrounds the screen.
+A small clock and repeated routine cues indicate consistency.
 
-The visual should communicate that the brain has received the reward it was expecting.
+The room feels consistently clean because of the repeated small action.
 
-Label only: “REWARD”.
-```
+Preserve exact character identity.
 
-## Beat 72 — “The loop gets stronger every time.”
-
-```text
-Create the same habit loop repeating around the main character several times.
-
-Each rotation of the loop becomes slightly thicker and brighter, showing that repetition strengthens the pathway.
-
-The character becomes less conscious of the action with each repetition.
-
-The final loop should feel almost automatic.
-```
-
-## Beat 73 — “Good habit example.”
-
-```text
-Create one coherent morning routine.
-
-The main character wakes at 7am and notices his gym shoes placed beside the bed.
-
-Seeing the shoes creates an immediate desire to move.
-
-He puts them on and leaves for the gym.
-
-At the end, he returns looking energized and satisfied.
-
-The four stages should be implied by the sequence rather than shown as four boxes.
-```
-
----
-
-# SECTION 11 — THE 4 LAWS OVERVIEW
-
-## Beat 74 — “Make it obvious.”
-
-```text
-Create a habit environment where the cue is impossible to miss.
-
-The main character enters a room and immediately sees the object associated with the desired habit placed directly in his path.
-
-A strong spotlight or visual emphasis makes the cue obvious.
-
-Use one label: “OBVIOUS”.
-```
-
-## Beat 75 — “Make it attractive.”
-
-```text
-Create a scene where a necessary habit becomes visually appealing because it is paired with something enjoyable.
-
-The main character approaches the activity with visible anticipation rather than resistance.
-
-A subtle attractive visual element pulls him toward the habit.
-
-Use one label: “ATTRACTIVE”.
-```
-
-## Beat 76 — “Make it easy.”
-
-```text
-Create a smooth path with almost no obstacles.
-
-The main character takes a tiny first step into the desired behavior because everything he needs is already prepared.
-
-The environment should make the action physically effortless.
-
-Use one label: “EASY”.
-```
-
-## Beat 77 — “Make it satisfying.”
-
-```text
-Create a moment immediately after completing a good habit.
-
-The main character finishes the action and receives a small immediate sense of accomplishment: a checkmark, satisfying click, or visible progress marker.
-
-The reward should happen now, not months later.
-
-Use one label: “SATISFYING”.
-```
-
-## Beat 78 — “Invert the four laws for bad habits.”
-
-```text
-Create one continuous scene where the main character transforms a tempting bad-habit environment.
-
-He moves the cue out of sight, removes its appeal, adds physical friction, and creates a clear consequence for repeating it.
-
-The bad habit becomes increasingly difficult to reach as the scene progresses.
-
-Use only the four small words: “INVISIBLE”, “UNATTRACTIVE”, “DIFFICULT”, “UNSATISFYING”.
+No text.
+Horizontal 16:9.
 ```
 
 ---
 
-# SECTION 12 — LAW 1: MAKE IT OBVIOUS
+# Section 7 — Identity
 
-## Beat 79 — “Specify the time and place.”
+## IMAGE 33 — Level 1: Outcome
+
+**Narration:**  
+> Level 1: Outcome
+
+**Prompt:**
 
 ```text
-Create a precise evening reading setup.
+The established Main Reference Character standing in front of three large desired outcomes represented visually: a healthier lifestyle, financial success, and a completed book.
 
-The main character sits on the living-room sofa at exactly 8pm with the book already open beside him.
+The character looks toward the results he wants to achieve.
 
-A clock shows 8:00 and the room clearly establishes the location.
+The visual should communicate "What do I want to get?"
 
-The cue is specific because the time and place are unmistakable.
+Clean conceptual editorial illustration.
 
-Use a small caption: “8 PM — LIVING ROOM”.
+No text.
+Horizontal 16:9.
 ```
 
-## Beat 80 — “After I pour my morning coffee, I will meditate.”
+## IMAGE 34 — Level 2: Process
+
+**Narration:**  
+> Here you're no longer asking "what do I want?" — you're asking "what do I do?"
+
+**Prompt:**
 
 ```text
-Create one connected morning kitchen scene.
+The established Main Reference Character actively performing three daily actions: exercising, writing at a desk, and preparing a healthy meal.
 
-The main character pours coffee into a cup.
+Unlike the outcome image, there are no trophies or final results. The focus is entirely on actions.
 
-Immediately beside the coffee setup is a meditation cushion, ready for the next action.
+Clean visual hierarchy.
 
-The physical arrangement makes the first habit naturally trigger the second.
-
-Do not use a flowchart.
+No text.
+Horizontal 16:9.
 ```
 
-## Beat 81 — “Move the phone out of the bedroom.”
+## IMAGE 35 — Daily Processes
+
+**Narration:**  
+> I follow a diet. I exercise for 30 minutes every day. I write 500 words every morning.
+
+**Prompt:**
 
 ```text
-Create a nighttime bedroom scene.
+A visually connected daily routine showing the established Main Reference Character preparing healthy food, exercising, and writing at a desk.
 
-The main character places his phone outside the bedroom before going to sleep.
+Use three environmental zones that flow naturally together rather than a rigid three-panel comic.
 
-The phone is now physically separated from the bed, while the bedroom becomes calmer and less distracting.
+The focus is consistent process and repetition.
 
-The distance itself should communicate that removing the cue weakens the bad habit.
+Preserve exact character identity.
+
+No text.
+Horizontal 16:9.
 ```
 
----
+## IMAGE 36 — Level 3: Identity
 
-# SECTION 13 — LAW 2: MAKE IT ATTRACTIVE
+**Narration:**  
+> This is the deepest level. And this is where real change actually happens.
 
-## Beat 82 — “Dopamine motivates repetition.”
+**Prompt:**
 
 ```text
-Create a visual attraction metaphor.
+The established Main Reference Character standing in front of a large mirror.
 
-A glowing reward source pulls the main character toward a desired behavior.
+His reflection looks confident and aligned with the person he wants to become.
 
-The pull should feel like a magnetic attraction, with the character willingly moving toward it.
+Around the reflection are subtle symbols of healthy living, writing, discipline and consistency.
 
-Keep the scene grounded in a real habit rather than a literal brain diagram.
+The image should feel like an internal identity transformation, not just an external achievement.
 
-Minimal label: “DOPAMINE”.
+Premium editorial illustration.
+
+Preserve exact character identity.
+
+No text.
+Horizontal 16:9.
 ```
 
-## Beat 83 — “Temptation bundling.”
+## IMAGE 37 — I Am
+
+**Narration:**  
+> I am a healthy person. I am a writer. I am a disciplined person.
+
+**Prompt:**
 
 ```text
-Create one energetic scene where two experiences are physically fused.
+The established Main Reference Character standing confidently in the center.
 
-The main character exercises on a treadmill while happily listening to his favorite podcast through headphones.
+Around him are three simple visual identities:
+healthy lifestyle — running shoes and healthy food,
+writer — notebook and pen,
+disciplined person — organized daily routine and clock.
 
-The enjoyable audio visually flows into the workout, making the exercise feel more attractive.
+The character should look like these behaviors are simply part of who he is.
 
-Use a small caption: “NEED TO DO + WANT TO DO”.
+Clean, minimal, premium.
+
+Preserve exact character identity.
+
+No text.
+Horizontal 16:9.
 ```
 
-## Beat 84 — “Only listen to the podcast while working out.”
+## IMAGE 38 — Identity-Based Refusal
+
+**Narration:**  
+> The first one says: "No thanks, I'm trying to quit." The second says: "No thanks, I'm not a smoker."
+
+**Prompt:**
 
 ```text
-Create a gym scene where the main character puts on headphones specifically when starting his workout.
+Two versions of the established Main Reference Character are offered a cigarette by an unseen hand.
 
-The podcast interface becomes available at the same moment the workout begins.
+Left version: he hesitates and looks conflicted, still identifying with the old behavior.
 
-A subtle lock symbol indicates that the enjoyable content is reserved for this activity.
+Right version: he calmly refuses with confident body language and turns away.
 
-The visual should communicate exclusivity without becoming a UI-heavy image.
+The two characters must clearly be the same person.
+
+Do not depict smoking or cigarette use actively; only show the offered cigarette as the object of refusal.
+
+Clean educational illustration.
+
+No text.
+Horizontal 16:9.
 ```
 
----
+## IMAGE 39 — Identity Change
 
-# SECTION 14 — LAW 3: MAKE IT EASY
+**Narration:**  
+> The first person still sees themselves as a smoker who's resisting. The second person has changed their identity.
 
-## Beat 85 — “Put the book on your pillow.”
-
-```text
-Create a nighttime bedroom scene.
-
-The main character enters the room and immediately sees an open book placed directly on his pillow.
-
-Because the book blocks the normal bedtime setup, he naturally picks it up and begins reading.
-
-The physical placement should make the desired behavior easier than ignoring it.
-```
-
-## Beat 86 — “Lay out your gym clothes.”
+**Prompt:**
 
 ```text
-Create an early-morning bedroom scene.
+Conceptual mirror scene.
 
-The main character wakes up and sees his gym clothes and shoes already prepared beside the bed.
+On the left, the established Main Reference Character looks into a mirror where the reflection subtly represents his old identity.
 
-He can begin getting dressed immediately without searching for anything.
+On the right, the same character looks into another mirror and sees a confident version of himself who no longer identifies with the old habit.
 
-The environment communicates reduced friction through preparation.
-```
+The transformation should feel psychological and symbolic.
 
-## Beat 87 — “Don't buy junk food.”
+Preserve exact character identity.
 
-```text
-Create a grocery-store scene.
-
-The main character stands in front of a tempting shelf of junk food but walks past it without purchasing anything.
-
-His shopping basket contains healthier alternatives.
-
-The key idea is that the easiest way to avoid the later behavior is to remove it before it enters the environment.
-```
-
-## Beat 88 — “Move the phone to another room.”
-
-```text
-Create a home-office scene.
-
-The main character works at his desk while the phone is placed in a separate room, far enough away that reaching it requires standing up and walking.
-
-The physical distance makes the distraction inconvenient.
-
-Keep the workspace calm and focused.
-```
-
-## Beat 89 — “The 2-Minute Rule.”
-
-```text
-Create a visual tiny-start scene.
-
-A large intimidating goal sits beside the main character: a thick book, a full workout setup, and a meditation space.
-
-Each intimidating task visually transforms into a tiny starting action: one page, putting on shoes, one breath.
-
-A large simple timer reads “2 MIN”.
-
-The character looks relieved because starting no longer feels overwhelming.
-```
-
-## Beat 90 — “Starting is the hardest part.”
-
-```text
-Create a scene where the main character stands before a large heavy door labeled “START”.
-
-Once he pushes it open slightly, the path beyond becomes much easier and smoother.
-
-The physical effort is concentrated at the beginning.
-
-The visual should communicate that beginning the behavior is the main barrier.
+No text.
+Horizontal 16:9.
 ```
 
 ---
 
-# SECTION 15 — LAW 4: MAKE IT SATISFYING
+# Section 8 — The Habit Loop
 
-## Beat 91 — “Immediate reward.”
+## IMAGE 40 — Four Stages of the Habit Loop
+
+**Narration:**  
+> James Clear says every habit is made of 4 stages.
+
+**Prompt:**
 
 ```text
-Create a scene immediately after the main character completes a good habit.
+A clean circular educational diagram showing the four stages of a habit loop.
 
-He performs a small satisfying action such as checking a box, placing a marker, or clicking a physical counter.
+CUE → CRAVING → RESPONSE → REWARD → back to CUE.
 
-A subtle burst of positive visual feedback appears immediately.
+Use simple visual icons for each stage:
+a phone on a desk for cue,
+a bored character wanting stimulation for craving,
+a hand picking up the phone for response,
+a happy entertained expression for reward.
 
-The reward is intentionally small but immediate.
+The established Main Reference Character should appear consistently through the sequence.
+
+Clean editorial infographic illustration, rounded geometric framing, strong visual hierarchy, deep green, dark teal and warm beige with crimson accents.
+
+No unnecessary decoration.
+No extra text beyond the four stage names.
+Horizontal 16:9.
 ```
 
-## Beat 92 — “Habit tracker.”
+## IMAGE 41 — Cue
+
+**Narration:**  
+> Your phone is sitting on the desk in front of you.
+
+**Prompt:**
 
 ```text
-Create a physical habit-tracking wall calendar.
+The established Main Reference Character sitting at a desk.
 
-The main character stands beside a large calendar and adds another checkmark to a long continuous streak.
+A smartphone is clearly visible directly in front of him.
 
-The completed marks form a subtle upward path across the calendar.
+The phone should visually stand out as the trigger, while the character has not yet touched it.
 
-Make the streak feel satisfying and tangible rather than like a spreadsheet.
+Simple composition, strong focal point.
+
+Preserve exact character identity.
+
+No text.
+Horizontal 16:9.
 ```
 
-## Beat 93 — “Never miss twice.”
+## IMAGE 42 — Craving
+
+**Narration:**  
+> You're bored and want to be distracted.
+
+**Prompt:**
 
 ```text
-Create a calendar with a long streak.
+The established Main Reference Character sitting at the desk looking bored.
 
-One day is marked with a red X.
+The smartphone is nearby and a subtle visual thought cue draws his attention toward it.
 
-The very next day receives a bold green checkmark as the main character returns to the routine.
+The phone represents the desired distraction.
 
-The path of successful days continues beyond the mistake.
+Keep the expression relatable rather than exaggerated.
 
-Use one large caption: “NEVER MISS TWICE”.
+Preserve exact character identity.
+
+No text.
+Horizontal 16:9.
 ```
 
-## Beat 94 — “Missing once is an accident.”
+## IMAGE 43 — Response
+
+**Narration:**  
+> You pick up your phone and open Instagram.
+
+**Prompt:**
 
 ```text
-Create a small visual stumble metaphor.
+The established Main Reference Character picking up his smartphone and looking at the screen.
 
-The main character trips once on a path but immediately gets back on his feet.
+The screen can show a generic colorful social media feed without reproducing a real platform interface or logo.
 
-The road continues in the same direction.
+The action itself is the main focus.
 
-A single small red mark remains behind him, but it does not interrupt the overall path.
+Preserve exact character identity.
 
-The message is recovery, not perfection.
+No text.
+Horizontal 16:9.
 ```
 
----
+## IMAGE 44 — Reward
 
-# SECTION 16 — THE GOLDILOCKS RULE
+**Narration:**  
+> A brief moment of entertainment.
 
-## Beat 95 — “Too easy.”
+**Prompt:**
 
 ```text
-Create the left side of a difficulty landscape.
+The established Main Reference Character relaxing comfortably while looking at his smartphone.
 
-The main character performs an extremely easy task with a bored expression.
+His facial expression shows a small moment of satisfaction and entertainment.
 
-The environment is flat and repetitive.
+Simple floating visual symbols around the phone can communicate stimulation and reward.
 
-A small label reads: “TOO EASY”.
+Preserve exact character identity.
 
-The scene should feel intentionally under-stimulating.
+No text.
+Horizontal 16:9.
 ```
 
-## Beat 96 — “Just right.”
+## IMAGE 45 — Neural Pathway Gets Stronger
+
+**Narration:**  
+> Every time this loop repeats, that neural pathway gets stronger. After a while, you do it without even thinking.
+
+**Prompt:**
 
 ```text
-Create the central peak of the difficulty landscape.
+Conceptual illustration of the established Main Reference Character repeating the same phone habit several times.
 
-The main character performs a task that is challenging but manageable.
+A simple glowing pathway connects the cue, craving, response and reward stages. Each repetition makes the pathway thicker and more defined.
 
-He looks focused, energized, and engaged.
+Keep it educational rather than medically detailed.
 
-The environment should contain a slight obstacle that requires effort but is clearly within his ability.
+The final repetition should feel automatic, with the character reaching for the phone almost without conscious thought.
 
-Use the dominant label: “JUST RIGHT”.
-```
+Preserve exact character identity.
 
-## Beat 97 — “Too hard.”
-
-```text
-Create the right side of the difficulty landscape.
-
-The main character struggles up an enormous steep mountain carrying an oversized load.
-
-His expression shows frustration and overwhelm.
-
-The challenge is clearly beyond his current ability.
-
-Use a small label: “TOO HARD”.
-```
-
-## Beat 98 — “The Goldilocks Zone.”
-
-```text
-Create one continuous difficulty landscape shaped like a smooth mountain or bell curve.
-
-The left side is boring and too easy.
-
-The center is the visually dominant sweet spot where the main character is motivated and engaged.
-
-The right side becomes overwhelming and too difficult.
-
-The center should feel like the ideal zone.
-
-Use one caption: “GOLDILOCKS ZONE”.
-```
-
-## Beat 99 — “Five minutes on day one.”
-
-```text
-Create a beginner running scene.
-
-The main character jogs for only five minutes on the first day.
-
-The distance is intentionally modest, but he looks successful and energized.
-
-A small marker reads “DAY 1 — 5 MIN”.
-
-The image should communicate starting at an appropriate difficulty.
-```
-
-## Beat 100 — “Keep pushing the edge.”
-
-```text
-Create a continuous running path that gradually becomes longer.
-
-The main character progresses through slightly more challenging runs, with the path extending farther each time.
-
-The increases should be gradual rather than extreme.
-
-The character remains near the edge of his ability without becoming overwhelmed.
+No text.
+Horizontal 16:9.
 ```
 
 ---
 
-# SECTION 17 — WRAP-UP
+# Section 9 — The 4 Laws of Behavior Change
 
-## Beat 101 — “Bad habits reward you immediately.”
+## IMAGE 46 — Habit Loop Becomes Framework
+
+**Narration:**  
+> James Clear took those 4 stages of the habit loop and built a framework he calls the 4 Laws of Behavior Change.
+
+**Prompt:**
 
 ```text
-Create a compact visual recap scene.
+A clean transformation diagram.
 
-The main character stands between an instantly glowing reward and a distant delayed reward.
+On the left, the four-stage habit loop.
+On the right, four large organized building blocks representing the four laws.
 
-The instant reward is physically close and easy to reach.
+The established Main Reference Character stands between them as if presenting the framework.
 
-The delayed reward is farther away behind a long path.
+Use strong visual hierarchy and lots of clean space.
 
-Use one small phrase: “IMMEDIATE VS. DELAYED”.
+Preserve exact character identity.
+
+No text.
+Horizontal 16:9.
 ```
 
-## Beat 102 — “Small daily changes create a revolution.”
+## IMAGE 47 — Four Laws
+
+**Narration:**  
+> To build a good habit: Make it Obvious, Attractive, Easy, Satisfying.
+
+**Prompt:**
 
 ```text
-Create a dramatic accumulation scene.
+A premium educational infographic with four large vertically stacked rounded cards.
 
-The main character places one tiny piece into a growing structure.
+Each card has a simple visual symbol:
+1. a visible eye or lightbulb for obvious,
+2. an attractive magnet for attractive,
+3. a simple shortcut or open path for easy,
+4. a checkmark or reward symbol for satisfying.
 
-Hundreds of repeated pieces eventually form an enormous stable structure in the distance.
+The established Main Reference Character can stand beside the framework pointing toward the four principles.
 
-The character looks at the result with quiet surprise.
+Clean editorial design, established brand palette.
 
-The transformation should clearly come from repetition, not one giant action.
-```
-
-## Beat 103 — “Focus on systems, not goals.”
-
-```text
-Create a road scene.
-
-A giant distant destination marked “GOAL” is visible ahead.
-
-Instead of staring at it, the main character focuses on the small stepping stones directly under his feet.
-
-Each stepping stone represents a daily action.
-
-The road continues naturally beyond the visible destination.
-
-Use only “GOAL” and “SYSTEM”.
-```
-
-## Beat 104 — “Change your identity.”
-
-```text
-Create a mirror scene.
-
-The main character looks at himself in a mirror.
-
-The reflection is calm, healthy, disciplined, and confident.
-
-The real character is taking the same small actions that support that identity.
-
-Use one dominant phrase inside the mirror: “I AM”.
-```
-
-## Beat 105 — “Remember the 4 laws.”
-
-```text
-Create one final habit-building machine.
-
-Four physical controls around the machine are labeled “OBVIOUS”, “ATTRACTIVE”, “EASY”, and “SATISFYING”.
-
-The main character activates them one after another.
-
-As the controls activate, a healthy habit pathway becomes smoother, clearer, and brighter.
-
-Do not make four separate cards.
-```
-
-## Beat 106 — “Never miss twice.”
-
-```text
-Create the final recovery moment.
-
-The main character walks along a long path with many successful markers.
-
-One small missed day appears behind him.
-
-He takes the next step forward immediately.
-
-The missed day is visible but no longer important.
-
-Use the final caption: “NEVER MISS TWICE”.
-```
-
-## Beat 107 — “If this video was helpful, hit like and subscribe.”
-
-```text
-Create a clean closing scene with the main character facing the viewer with a warm, confident expression.
-
-He stands beside the finished Atomic Habits journey path, now showing the small steps accumulated into a strong destination.
-
-Leave generous clean negative space beside or above him for the channel's call-to-action graphics to be added later.
-
-Do not generate a large social-media UI or clutter the scene with buttons.
-```
-
-## Beat 108 — “Next video.”
-
-```text
-Create a clean transition scene from the Atomic Habits journey toward an open path leading beyond the current frame.
-
-The main character walks forward with confidence.
-
-The Atomic Habits book rests behind him, while the path ahead is intentionally open and unfinished, suggesting the next book and next lesson.
-
-Leave generous negative space for the next-video title or thumbnail element.
-
-No specific next-book title is needed.
+No clutter.
+Horizontal 16:9.
 ```
 
 ---
 
-# EXISTING SLIDE-LEVEL HERO PROMPTS
+# Section 10 — Law 1: Make It Obvious
 
-The following are the original major slide prompts retained as hero/composite scenes. They can be used as the primary image for each section, while the individual beats above can be inserted between narration sentences.
+## IMAGE 48 — Make the Cue Visible
 
-## Hero Slide 1 — The Habit Failure Cycle
+**Narration:**  
+> Law 1: Make the cue visible.
+
+**Prompt:**
 
 ```text
-Create one coherent visual story instead of a generic flowchart.
+The established Main Reference Character preparing to read.
 
-The main character is trapped inside a large circular treadmill-like habit loop. He starts at a small “CHANGE” sign with optimistic energy, then the path visually transforms through several moments: starting a workout, checking a calendar, looking disappointed at a flat progress line, collapsing onto a couch, and finally arriving back at the same starting point.
+Instead of keeping the book hidden on a shelf, the book is placed prominently on the table directly in front of him.
 
-The circular path itself creates the arrows and continuity, so the viewer understands the cycle without needing many boxes.
+The visual contrast should make it obvious that the cue is visible and easy to notice.
 
-Show the character appearing in several small repeated moments along the same path, like a visual sequence of one person moving through the cycle.
+Preserve exact character identity.
 
-Only use short labels at key moments: “START”, “NO RESULTS”, “GIVE UP”, “BACK TO ZERO”.
-
-The final return point should visually connect to the beginning.
-
-Leave clean negative space for the slide title.
-
-Do not make this a six-item infographic or a collection of separate cards.
+No text.
+Horizontal 16:9.
 ```
 
-## Hero Slide 2 — The Problem Is Not You — It's the System
+## IMAGE 49 — Implementation Intention
+
+**Narration:**  
+> I will read for 20 minutes every evening at 8pm on the living room sofa.
+
+**Prompt:**
 
 ```text
-Create one powerful visual metaphor showing the main character standing beside a malfunctioning habit system.
+The established Main Reference Character sitting on his living room sofa at exactly 8:00 PM, with a book already in his hands.
 
-The character himself looks normal and capable. The system around him is the thing that is broken: confusing paths, unnecessary friction, repeated loops, and obstacles that send him back to the beginning.
+A clock clearly shows 8:00, the location is unmistakably the living room sofa, and the book is ready.
 
-Beside the broken system, reveal a redesigned path made from small clear steps leading forward.
+The image should communicate time + place + action very clearly.
 
-The character looks toward the redesigned path with a moment of realization.
+Preserve exact character identity.
 
-The visual message is that repeated failure does not automatically mean the person is broken.
-
-Use minimal text: “THE PROBLEM IS NOT YOU” and “THE SYSTEM”.
+No text.
+Horizontal 16:9.
 ```
 
-## Hero Slide 3 — Instant Reward vs. Delayed Reward
+## IMAGE 50 — Habit Stacking
+
+**Narration:**  
+> Attach a new habit to an existing one.
+
+**Prompt:**
 
 ```text
-Create a single visual metaphor of two different reward machines facing the viewer.
+The established Main Reference Character pouring his morning coffee.
 
-On the left, an “instant reward” machine immediately gives the character small satisfying rewards whenever he reaches toward it: a phone notification, a piece of candy, and a comfortable pillow appear instantly.
+Immediately beside the coffee mug is a meditation cushion, visually connecting the existing coffee routine with the new meditation habit.
 
-On the right, a large “future reward” vault is closed behind a clock and a long winding path. Inside the distant end of the path, show the long-term benefits of exercise, healthy eating, and reading.
+The composition should communicate one action naturally triggering the next.
 
-The visual contrast should communicate: bad habits pay now; good habits pay later.
+Preserve exact character identity.
 
-Use only the essential labels “NOW” and “LATER”, plus small “BAD HABITS” and “GOOD HABITS” labels.
-
-Make the delayed side feel physically farther away.
+No text.
+Horizontal 16:9.
 ```
 
-## Hero Slide 4 — How Your Brain Decides
+## IMAGE 51 — Coffee → Meditation
+
+**Narration:**  
+> After I pour my morning coffee, I will meditate for 10 minutes.
+
+**Prompt:**
 
 ```text
-Create a large stylized profile of a human head as one coherent scene.
+A visual sequence flowing naturally from left to right.
 
-Inside the head, show a glowing shortcut road leading immediately to a bright reward button labeled “IMMEDIATE REWARD”.
+The established Main Reference Character pours morning coffee, then moves to a meditation cushion and sits calmly.
 
-Beside it, a much longer winding road labeled “FUTURE REWARD” leads toward a small distant goal behind a clock.
+The coffee cup acts as the cue connecting the two actions.
 
-A tiny visual decision point shows the brain choosing the short road almost automatically.
+Clean morning environment, warm sunlight, editorial illustration.
 
-Use one concise headline: “YOUR BRAIN PREFERS THE REWARD NOW”.
+Preserve exact character identity.
 
-The illustration should feel like a visual explanation, not a labeled anatomy diagram.
-
-No character needed.
+No text.
+Horizontal 16:9.
 ```
 
-## Hero Slide 5 — Atomic = Small but Powerful
+---
+
+# Section 11 — Law 2: Make It Attractive
+
+## IMAGE 52 — Temptation Bundling
+
+**Narration:**  
+> You pair something you enjoy with something you need to do.
+
+**Prompt:**
 
 ```text
-Create one visual transformation scene showing scale and accumulation.
+The established Main Reference Character exercising on a treadmill while listening to an enjoyable podcast through headphones.
 
-At the far left, one tiny glowing atom sits alone.
-
-From it, a trail of many identical tiny particles flows across the slide, gradually connecting into larger molecules, then into a complex structure resembling a strong building or bridge on the right.
-
-The progression should make “tiny repeated units → remarkable result” obvious at a glance.
-
-Use one large “×365” between the beginning and the transformation.
-
-Small labels only: “TINY HABIT” at the beginning and “REMARKABLE RESULT” at the end.
-
-Make the accumulation itself the main visual.
-```
-
-## Hero Slide 6 — The Power of 1%
-
-```text
-Create one dramatic continuous growth landscape.
-
-The main character stands at the starting point, looking surprised.
-
-The curve splits into two paths: one labeled “+1% EVERY DAY” slowly climbs and then rises dramatically toward a bright destination marked “×37”; the other labeled “−1% EVERY DAY” gradually sinks toward “0.03”.
-
-Use the same origin point so the viewer immediately sees that tiny daily differences create radically different long-term outcomes.
-
-Place the character near the origin rather than between two boxed charts.
-
-Use subtle milestone markers such as DAY 1, DAY 100, and DAY 365.
-
-The visual should feel like a journey that separates over time, not a spreadsheet.
-```
-
-## Hero Slide 7 — 15 Minutes a Day
-
-```text
-Create a visual time-lapse story rather than a math equation.
-
-Show one open book in the foreground with a small clock beside it reading “15 MIN”.
-
-From the book, a flowing ribbon of time travels across calendar days and gradually becomes a large stack of finished books at the far end.
-
-A subtle “365 DAYS” marker appears along the ribbon.
-
-At the end, show “90 HOURS” above the stack.
-
-The visual should make the viewer feel how a tiny daily action accumulates into a large yearly output.
-```
-
-## Hero Slide 8 — The Door Example
-
-```text
-Create a cinematic-but-flat illustrated sequence of the same wooden door being hit repeatedly by the main character.
-
-Show three ghosted stages of the character along one diagonal motion path: early hits where the door looks untouched, a middle stage with visible cracks, and the final hit where the door bursts open.
-
-The numbers “10”, “50”, “100”, and “101” appear directly on the evolving cracks as milestone marks, not as separate labels.
-
-Behind the door, reveal a bright open path to symbolize the breakthrough that was invisible before.
-
-The main character is determined and physically connected to the action.
-
-Avoid a comic strip made of separate boxes.
-```
-
-## Hero Slide 9 — Valley of Disappointment
-
-```text
-Create a wide valley landscape representing the invisible-progress phase of habit building.
-
-The main character walks along a path that rises in the distance but first descends into a deep valley.
-
-Visible progress appears flat or disappointing above ground, while beneath the ground a subtle network of growing roots and structural changes shows that progress is actually accumulating.
-
-At the far side of the valley, a bright breakthrough is visible.
-
-The character stands near the lowest point, tempted to quit.
-
-Use one dominant label: “VALLEY OF DISAPPOINTMENT”.
-```
-
-## Hero Slide 10 — Goals vs. Systems
-
-```text
-Create one sports scene that visually proves the difference between a goal and a system.
-
-In the distance, two teams stand beneath the exact same giant finish-line banner labeled “WIN”.
-
-Both teams clearly want the same trophy.
-
-One team is surrounded by a disciplined routine: repeated training, recovery, nutrition, sleep, and practice.
-
-The other team stands around uncertainly with little organized preparation.
-
-The main character stands in the foreground observing the difference.
-
-Use only the labels “GOAL” and “SYSTEM”.
-
-Avoid two static columns.
-```
-
-## Hero Slide 11 — The Room Example
-
-```text
-Create a single-room transformation scene viewed from the same camera angle.
-
-The main character starts in a chaotic room and looks at the desired result: “CLEAN ROOM”.
-
-Instead of magically changing the room, show him performing a simple five-minute tidying routine.
-
-The repeated action naturally produces a clean environment.
-
-Use a subtle recurring clock/checkmark motif labeled “5 MIN EVERY NIGHT”.
-
-The transformation should be the main story, not a split infographic.
-```
-
-## Hero Slide 12 — Level 1: Outcome
-
-```text
-Create a visual ladder of behavior change with the first level emphasized.
-
-The main character stands at the bottom looking toward a distant finish line with visual representations of a desired body, money, and a finished book.
-
-A large target sits at the finish line, communicating “WHAT I WANT TO GET”.
-
-The character is reaching toward the result from the outside.
-
-Use one prominent label: “LEVEL 1 — OUTCOME”.
-```
-
-## Hero Slide 13 — Level 2: Process
-
-```text
-Create a visual machine that turns repeated actions into results.
-
-At the center, show connected gears powered by a daily routine mechanism.
-
-The main character feeds recurring actions into the machine: exercise, healthy eating, and writing.
-
-As the gears turn, small visible progress emerges on the other side.
-
-A single label reads “LEVEL 2 — PROCESS”.
-
-The scene should communicate “WHAT YOU DO” through action.
-```
-
-## Hero Slide 14 — Level 3: Identity
-
-```text
-Make this the most visually powerful of the three levels.
-
-Show the main character standing in front of a large mirror.
-
-His reflection appears slightly stronger, calmer, healthier, and more organized, representing the identity he is becoming.
-
-Around the reflection, subtle symbols of the habits supporting that identity emerge naturally.
-
-Use one dominant label: “LEVEL 3 — IDENTITY”.
-
-Include “I AM” as the only major phrase.
-```
-
-## Hero Slide 15 — Three Layers of Change
-
-```text
-Create a deep physical cutaway of a three-layer structure.
-
-The outer shell represents OUTCOME.
-
-The middle layer represents PROCESS.
-
-The glowing core represents IDENTITY.
-
-The main character stands beside the structure with one hand pointing toward the glowing core.
-
-A visual path travels from identity outward, showing identity influencing process and process influencing outcome.
-
-Do not make this a flat three-circle infographic.
-```
-
-## Hero Slide 16 — Cigarette Identity Example
-
-```text
-Create one social scene where someone offers the main character a cigarette.
-
-The first moment shows him hesitating and saying “I’M TRYING TO QUIT”.
-
-The second moment shows him calmly refusing and saying “I’M NOT A SMOKER”.
-
-Make both moments feel like parts of one natural social situation rather than a sterile comparison chart.
-
-The second response should communicate a changed identity through relaxed body language.
-```
-
-## Hero Slide 17 — The Habit Loop
-
-```text
-Create one continuous circular machine around the main character.
-
-The character stands inside a looping track that transforms through four connected moments:
-
-A phone notification appears as the CUE.
-
-A glowing pull toward the phone represents the CRAVING.
-
-His hand automatically reaches for it as the RESPONSE.
-
-The screen lights up with a satisfying reward as the REWARD.
-
-The track then visibly loops back to the cue.
-
-Place the four short labels beside their corresponding moments.
-
-Avoid four detached boxes.
-```
-
-## Hero Slide 18 — Phone Loop
-
-```text
-Create a single everyday desk scene showing the phone habit unfolding around the same character.
-
-The phone lights up — CUE.
-
-The character looks bored and wants distraction — CRAVING.
-
-His hand reaches automatically — RESPONSE.
-
-The screen provides entertainment and his expression relaxes — REWARD.
-
-A circular motion trail connects all four moments and loops back to the glowing phone.
-
-Use the four labels only as small annotations.
-```
-
-## Hero Slide 19 — Four Laws
-
-```text
-Create one central habit-building machine with four large physical controls around it.
-
-The controls are labeled OBVIOUS, ATTRACTIVE, EASY, and SATISFYING.
-
-The main character activates them in sequence.
-
-As the controls activate, a healthy habit pathway becomes progressively clearer, more appealing, smoother, and more rewarding.
-
-Use small visual metaphors around the controls: an eye for OBVIOUS, a magnet for ATTRACTIVE, a smooth short path for EASY, and a satisfying checkmark for SATISFYING.
-
-No four-card grid.
-```
-
-## Hero Slide 20 — Make It Obvious
-
-```text
-Create a visual scene where the cue for a desired habit is impossible to miss.
-
-The main character enters a room and immediately sees the object associated with the habit placed directly in his path.
-
-The cue is visually prominent but naturally integrated into the environment.
-
-The character recognizes the cue and begins the desired behavior.
-
-Use one label: “MAKE IT OBVIOUS”.
-```
-
-## Hero Slide 21 — Temptation Bundling
-
-```text
-Create one energetic scene where two experiences are physically fused.
-
-The main character exercises on a treadmill or stationary bike while happily listening to a podcast through headphones.
-
-A flowing audio stream connects the enjoyable activity to the workout.
+The workout represents something necessary; the headphones and entertainment represent something enjoyable.
 
 The character looks genuinely engaged and happy.
 
-Use a small caption: “NEED TO DO + WANT TO DO”.
+Clean, simple composition.
 
-Do not use separate columns or a plus-sign infographic.
+Preserve exact character identity.
+
+No text.
+Horizontal 16:9.
 ```
 
-## Hero Slide 22 — Friction
+## IMAGE 53 — Healthy Breakfast + Enjoyable Content
+
+**Narration:**  
+> You only watch content you enjoy while eating a healthy breakfast.
+
+**Prompt:**
 
 ```text
-Create one coherent home environment showing friction being manipulated.
+The established Main Reference Character sitting at a breakfast table eating a healthy meal while watching enjoyable content on a tablet.
 
-The good habit path is smooth: a book is on the pillow, gym clothes are prepared, and the water bottle is ready.
+The healthy breakfast and enjoyable entertainment are visually paired.
 
-The bad habit path is difficult: the phone is in another room and junk food is absent.
+Bright but controlled morning atmosphere.
 
-The main character naturally follows the easy path.
+Preserve exact character identity.
 
-Use only “REDUCE FRICTION” and “ADD FRICTION”.
+No text.
+Horizontal 16:9.
 ```
 
-## Hero Slide 23 — The 2-Minute Rule
+## IMAGE 54 — Positive Association
+
+**Narration:**  
+> Your brain begins to associate a difficult task with a pleasurable experience.
+
+**Prompt:**
 
 ```text
-Create a visual tiny-start scene.
+A conceptual image showing the established Main Reference Character exercising while a pleasant visual glow connects the workout to headphones, music or a podcast.
 
-A large stopwatch reads “2:00”.
+The difficult activity and enjoyable experience visually merge into one positive association.
 
-Beside the main character are intimidating versions of large goals: a thick book, full workout setup, and meditation space.
+Clean educational metaphor.
 
-Each intimidating goal visually shrinks into a tiny first step: one page, shoes on, one breath.
+Preserve exact character identity.
 
-The character looks relieved as the first step becomes easy.
-
-Use the caption: “MAKE STARTING EASY”.
-```
-
-## Hero Slide 24 — Habit Tracker
-
-```text
-Create a physical habit-tracking wall/calendar as one visual story.
-
-A large month calendar shows a long continuous streak of completed days.
-
-One day in the middle is marked with a red X.
-
-The next day is dramatically highlighted with a fresh green checkmark, and the streak continues forward rather than ending.
-
-The main character stands beside the calendar drawing the next checkmark with a satisfied expression.
-
-Use one large caption: “NEVER MISS TWICE”.
-```
-
-## Hero Slide 25 — Goldilocks Rule
-
-```text
-Create a wide difficulty landscape.
-
-At the far left, the main character performs an extremely easy task and looks bored.
-
-At the center, he performs a task that is challenging but manageable and looks energized and motivated.
-
-At the far right, he struggles with an overwhelming task and looks stressed.
-
-The center should be the largest and most visually important zone.
-
-Use one caption: “FIND YOUR GOLDILOCKS ZONE”.
-```
-
-## Hero Slide 26 — Full Summary
-
-```text
-Do not make a five-item vertical list.
-
-Create one coherent Atomic Habits journey map across the slide.
-
-The main character walks along a winding path that passes through five memorable visual landmarks:
-
-1) an instant-reward magnet pulling him toward a phone,
-2) a staircase made of tiny 1% steps,
-3) a machine labeled SYSTEMS moving him forward,
-4) a mirror showing “I AM” identity,
-5) four small gates labeled OBVIOUS, ATTRACTIVE, EASY, SATISFYING.
-
-At the end of the path, show a stronger, calmer version of the character at a clear destination, with a small “NEVER MISS TWICE” sign nearby.
-
-Use numbers ①–⑤ only as small milestone markers.
-
-The slide should feel like a visual recap of the entire video, not five separate cards.
+No text.
+Horizontal 16:9.
 ```
 
 ---
 
-# Suggested Editing Structure
+# Section 12 — Law 3: Make It Easy
 
-Use the **Beat prompts** as individual inserts whenever the narration changes to a new concrete idea.
+## IMAGE 55 — Friction
 
-Use the **Hero Slide prompts** for the major visual anchors of each section.
+**Narration:**  
+> The more friction a behavior has, the less we do it. The less friction, the easier it is to act.
 
-A practical edit can therefore look like:
+**Prompt:**
 
-- Intro: Beats 01–19
-- Why habits feel easy/hard: Beats 20–28
-- About the book: Beats 29–32
-- 1% improvement: Beats 33–37
-- Valley of Disappointment: Beats 38–47
-- Goals vs Systems: Beats 48–54
-- Identity: Beats 55–66
-- Habit Loop: Beats 67–73
-- Four Laws overview: Beats 74–78
-- Law 1: Beats 79–81
-- Law 2: Beats 82–84
-- Law 3: Beats 85–90
-- Law 4: Beats 91–94
-- Goldilocks: Beats 95–100
-- Wrap-up: Beats 101–108
+```text
+A split conceptual scene.
 
-This gives the video substantially more visual coverage than the original ~26-slide structure while preserving the same coherent-scene philosophy.
+Left: the established Main Reference Character trying to read, but the book is buried inside a tall messy bookshelf surrounded by obstacles.
+
+Right: the same character with the book placed directly on the pillow, making it effortless to start reading.
+
+Strong visual contrast between high friction and low friction.
+
+Preserve exact character identity.
+
+No text.
+Horizontal 16:9.
+```
+
+## IMAGE 56 — Prepare Gym Clothes
+
+**Narration:**  
+> Want to work out? Lay out your gym clothes next to your bed the night before.
+
+**Prompt:**
+
+```text
+The established Main Reference Character preparing for tomorrow's workout before going to sleep.
+
+His gym clothes, shoes and water bottle are neatly placed beside the bed, ready for the morning.
+
+The character looks satisfied because tomorrow's action has already been made easy.
+
+Preserve exact character identity.
+
+No text.
+Horizontal 16:9.
+```
+
+## IMAGE 57 — Add Friction to Bad Habits
+
+**Narration:**  
+> Want to eat less junk food? Don't buy it. Want to use your phone less? Move it to another room.
+
+**Prompt:**
+
+```text
+A split conceptual scene.
+
+On one side, the established Main Reference Character walks past a grocery shelf without buying junk food.
+
+On the other side, his smartphone is placed in another room while he works elsewhere.
+
+The visual message: increase distance and effort for bad habits.
+
+Preserve exact character identity.
+
+No text.
+Horizontal 16:9.
+```
+
+## IMAGE 58 — The 2-Minute Rule
+
+**Narration:**  
+> Any new habit you start should be doable in under 2 minutes.
+
+**Prompt:**
+
+```text
+The established Main Reference Character standing beside a very simple starting action.
+
+Instead of a huge workout, he simply puts on his running shoes.
+Instead of reading a whole book, he opens one page.
+Instead of a long meditation session, he takes one slow breath.
+
+The focus is on making the beginning extremely easy.
+
+Clean conceptual illustration.
+
+Preserve exact character identity.
+
+No text.
+Horizontal 16:9.
+```
+
+## IMAGE 59 — Starting Is the Hardest Part
+
+**Narration:**  
+> Because starting is the hardest part. Once you start, continuing is much easier.
+
+**Prompt:**
+
+```text
+The established Main Reference Character pushing open a heavy door.
+
+Before opening: the door appears difficult and intimidating.
+
+After opening: a simple clear path continues easily forward.
+
+The character has crossed the hardest initial barrier.
+
+Simple metaphor for overcoming the starting resistance.
+
+Preserve exact character identity.
+
+No text.
+Horizontal 16:9.
+```
+
+---
+
+# Section 13 — Law 4: Make It Satisfying
+
+## IMAGE 60 — Habit Tracker
+
+**Narration:**  
+> Every day you complete your habit, put a checkmark.
+
+**Prompt:**
+
+```text
+The established Main Reference Character sitting at a desk and marking a habit tracker calendar.
+
+Several consecutive days contain clear checkmarks.
+
+His expression shows small but genuine satisfaction.
+
+The tracker is the visual focal point.
+
+Preserve exact character identity.
+
+No readable text beyond simple checkmarks.
+Horizontal 16:9.
+```
+
+## IMAGE 61 — Immediate Satisfaction
+
+**Narration:**  
+> Just that simple act of checking off a box gives you an immediate sense of satisfaction.
+
+**Prompt:**
+
+```text
+Close conceptual view of the established Main Reference Character placing one final checkmark in a habit tracker.
+
+Immediately after the checkmark, his expression becomes visibly satisfied.
+
+A subtle small reward symbol appears around the completed box.
+
+Simple and clean.
+
+Preserve exact character identity.
+
+No text.
+Horizontal 16:9.
+```
+
+## IMAGE 62 — Never Miss Twice
+
+**Narration:**  
+> If you miss a day, that's fine. But never miss two days in a row.
+
+**Prompt:**
+
+```text
+A calendar viewed from above.
+
+One day is empty.
+The next day has a large clear checkmark.
+
+The established Main Reference Character is reaching toward the second day, restarting the habit.
+
+The key visual idea is one missed day followed immediately by returning to the routine.
+
+No text.
+Horizontal 16:9.
+```
+
+## IMAGE 63 — One Miss vs Two Misses
+
+**Narration:**  
+> Missing once is an accident. Missing twice is the start of a new habit.
+
+**Prompt:**
+
+```text
+A simple calendar path showing one isolated missed day versus several consecutive missed days.
+
+The established Main Reference Character stands at the decision point and chooses to continue after one missed day.
+
+Avoid making the image overly negative.
+
+Preserve exact character identity.
+
+No text.
+Horizontal 16:9.
+```
+
+---
+
+# Section 14 — The Goldilocks Rule
+
+## IMAGE 64 — The Sweet Spot
+
+**Narration:**  
+> Not so easy that it's boring. Not so hard that it's discouraging. Right at the sweet spot.
+
+**Prompt:**
+
+```text
+The established Main Reference Character standing on a three-level difficulty scale.
+
+Left: an extremely easy task, and he looks bored.
+Center: a moderately challenging task, and he looks focused and engaged.
+Right: an extremely difficult task, and he looks overwhelmed.
+
+The middle position should visually stand out as the ideal zone.
+
+Clean educational illustration.
+
+Preserve exact character identity.
+
+No text.
+Horizontal 16:9.
+```
+
+## IMAGE 65 — Video Game Difficulty
+
+**Narration:**  
+> Think of a video game: if it's too easy, you stop playing. If it's too hard, you quit. But if it's perfectly matched to your skill level — you can play for hours.
+
+**Prompt:**
+
+```text
+The established Main Reference Character playing a simple video game.
+
+Behind him are three subtle difficulty states:
+too easy — bored,
+too difficult — frustrated,
+perfect difficulty — highly focused and enjoying the challenge.
+
+The center state should be visually dominant.
+
+Modern editorial illustration, playful but controlled.
+
+Preserve exact character identity.
+
+No text.
+Horizontal 16:9.
+```
+
+## IMAGE 66 — Gradually Increase Difficulty
+
+**Narration:**  
+> Gradually increase the difficulty over time so you always stay in that golden zone.
+
+**Prompt:**
+
+```text
+The established Main Reference Character climbing a staircase where each step becomes slightly more challenging.
+
+The steps increase gradually rather than suddenly.
+
+The character remains focused and comfortable throughout the climb.
+
+Use a visual progression from beginner to advanced while keeping the difficulty manageable.
+
+Preserve exact character identity.
+
+No text.
+Horizontal 16:9.
+```
+
+---
+
+# Section 15 — Wrap-Up
+
+## IMAGE 67 — Immediate vs Delayed Reward
+
+**Narration:**  
+> Bad habits feel easy because they reward you immediately. Good habits feel hard because the reward is delayed.
+
+**Prompt:**
+
+```text
+A clean split-screen conceptual illustration.
+
+Left: the established Main Reference Character instantly enjoying a phone and junk food.
+
+Right: the same character patiently exercising and reading while a larger future reward appears far in the distance.
+
+Strong contrast between immediate reward and delayed reward.
+
+Preserve exact character identity.
+
+No text.
+Horizontal 16:9.
+```
+
+## IMAGE 68 — 1% + Door
+
+**Narration:**  
+> The power of 1% — small daily changes create a revolution over time.
+
+**Prompt:**
+
+```text
+Combine two strong metaphors from the video.
+
+The established Main Reference Character repeatedly taking tiny steps upward while a wooden door in the distance gradually develops cracks and eventually opens.
+
+The image should communicate tiny repeated actions producing a major transformation.
+
+Preserve exact character identity.
+
+No text.
+Horizontal 16:9.
+```
+
+## IMAGE 69 — Systems, Not Goals
+
+**Narration:**  
+> Focus on systems, not goals. Goals tell you where you want to go. Systems actually get you there.
+
+**Prompt:**
+
+```text
+The established Main Reference Character standing at the beginning of a path.
+
+A distant trophy represents the goal, but beneath his feet is a clearly visible sequence of small daily steps representing the system.
+
+The character is focused on taking the next step rather than staring at the trophy.
+
+Preserve exact character identity.
+
+No text.
+Horizontal 16:9.
+```
+
+## IMAGE 70 — Identity
+
+**Narration:**  
+> Instead of "I want to," say "I am." "I am a healthy person."
+
+**Prompt:**
+
+```text
+The established Main Reference Character standing confidently in front of a mirror.
+
+Behind him are subtle symbols of his habits: exercise, reading, healthy food and organized routines.
+
+The reflection communicates that these behaviors are now part of who he is.
+
+Strong identity-focused composition.
+
+Preserve exact character identity.
+
+No text.
+Horizontal 16:9.
+```
+
+## IMAGE 71 — Four Laws Recap
+
+**Narration:**  
+> Remember the 4 laws: obvious, attractive, easy, satisfying.
+
+**Prompt:**
+
+```text
+A clean final infographic showing four connected rounded blocks with simple icons representing:
+
+visible cue,
+attractive reward,
+easy action,
+satisfying result.
+
+The established Main Reference Character stands beside the four principles like a presenter.
+
+Premium editorial design, strong hierarchy, established brand colors.
+
+No unnecessary text.
+Horizontal 16:9.
+```
+
+## IMAGE 72 — Never Miss Twice
+
+**Narration:**  
+> And never miss twice.
+
+**Prompt:**
+
+```text
+The established Main Reference Character standing beside a simple calendar.
+
+One day is missed, but the very next day he is back to the habit, confidently checking the box.
+
+The visual should feel optimistic and empowering, communicating recovery rather than perfection.
+
+Simple clean composition, strong focal point.
+
+Preserve exact character identity.
+
+No text.
+Horizontal 16:9.
+```
+
+---
+
+# Production Notes
+
+## Recommended Visual Rhythm
+
+Do not force one image per paragraph. Change the visual when the narration introduces a new concrete idea, example, metaphor or emotional beat.
+
+### Fast visual changes
+Use separate images for short concrete examples such as:
+
+- start working out
+- eat healthier
+- wake up earlier
+- spend less time on your phone
+- cue
+- craving
+- response
+- reward
+
+### Longer visual holds
+Use one stronger image for conceptual explanations such as:
+
+- the problem is the method
+- delayed rewards
+- compounding
+- systems vs goals
+- identity
+- the Valley of Disappointment
+
+### Hero Visuals
+Give extra visual importance to:
+
+- IMAGE 08 — The Problem Is the Method
+- IMAGE 17 — Atoms Become Molecules
+- IMAGE 20 — 37 Times Better
+- IMAGE 27 — Valley of Disappointment
+- IMAGE 39 — Identity Change
+- IMAGE 40 — Habit Loop
+- IMAGE 47 — Four Laws
+- IMAGE 68 — 1% + Door
+
+These are conceptual anchors and can stay on screen slightly longer than the quick example shots.
+
+## Character Consistency Checklist
+
+Before generating every character scene:
+
+1. Use the attached Main Character Reference.
+2. Preserve face shape and proportions.
+3. Preserve hairstyle.
+4. Preserve beard.
+5. Preserve skin tone.
+6. Preserve body proportions.
+7. Change only the pose, expression, clothing, environment, action and lighting when needed.
+8. Keep the same recognizable person across the entire video.
+
+## Important Composition Note
+
+The current Master Visual Identity for this project specifies a horizontal `16:9` format. All images in this Atomic Habits video must be generated as horizontal `16:9` images for standard YouTube long-form video.
