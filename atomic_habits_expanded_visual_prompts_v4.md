@@ -10,6 +10,302 @@
 
 سایز عکس هایی که میسازی 16 در 9 باشه
 
+```text
+میخواهم بهت محتوای اسلاید بدم و تو بر اساس قوانینی که بهت دادم طراحی کنی، دقت کن میخوام کاراکتر دقیقا همین باشه
+
+(ممکنه بعضی اسلایدا کاراکتر نخوان)
+
+سایز عکس هایی که میسازی 16 در 9 باشه
+VISUAL IDENTITY SYSTEM — MASTER SCRIPT
+Channel Visual Identity / Image Generation
+
+PURPOSE
+This document is the master visual guideline for generating images for the channel.
+Every generated slide must belong to the same visual identity, even when the subject,
+scene, or art style changes.
+
+==================================================
+1. REFERENCE SYSTEM
+==================================================
+
+Use the four provided reference boards as the source of truth:
+
+A. SIZE / COMPOSITION
+Defines the format, layout language, negative space, framing and visual hierarchy.
+
+B. MAIN REFERENCE CHARACTER
+Defines the recurring main character of the channel.
+
+C. ART STYLES
+Defines the approved illustration/art directions that can be selected for individual slides.
+
+D. COLOR PALETTE
+Defines the fixed brand colors.
+
+PRIORITY ORDER:
+1. Main character consistency
+2. Composition language
+3. Color palette
+4. Selected art style
+5. Subject-specific details
+
+==================================================
+2. MAIN REFERENCE CHARACTER
+==================================================
+
+The character shown in the Main Reference board is the primary recurring character
+and visual identity of the channel.
+
+Always use the established Main Reference Character when the slide requires the
+channel's main character.
+
+PRESERVE:
+- recognizable facial structure
+- facial proportions
+- hairstyle
+- beard and general facial hair
+- skin tone
+- general body proportions
+- overall recognizable appearance
+
+The character must remain recognizable across different slides, scenes, poses,
+camera angles and art styles.
+
+ALLOWED TO CHANGE:
+- pose
+- facial expression
+- clothing when appropriate
+- camera angle
+- environment
+- action
+- lighting
+
+DO NOT:
+- redesign the character
+- randomly change facial features
+- make the character look like a different person
+- exaggerate facial proportions without instruction
+- create a generic replacement character
+
+==================================================
+3. ART STYLE SYSTEM
+==================================================
+
+The Art Styles reference board defines the approved visual language.
+
+The art style may change from slide to slide, but it must be selected from or remain
+visually compatible with the approved Art Styles reference.
+
+When a specific art style is requested:
+- treat it as the primary style reference
+- preserve the main character's identity within that style
+- keep the composition and color identity consistent
+
+Do not combine unrelated styles unless explicitly requested.
+
+STYLE PRINCIPLE:
+Art style can change.
+Brand identity cannot.
+
+==================================================
+4. FIXED BRAND COLOR PALETTE
+==================================================
+
+Use the following colors as the official brand palette:
+
+Deep Green      #025042
+Dark Teal       #056758
+Warm Beige      #DBC7A4
+Crimson Pink    #C31048
+Deep Crimson    #A40032
+
+COLOR RULES:
+- These colors should dominate the visual system.
+- Deep Green, Dark Teal and Warm Beige are the preferred dominant colors.
+- Crimson Pink and Deep Crimson should primarily be used as accents.
+- Use visually compatible shades/tints when necessary, while keeping the original
+  palette recognizable.
+- Avoid strong unrelated colors unless they are essential to the subject.
+- Do not introduce random neon colors.
+- Do not let the art style override the brand palette.
+
+The final image should still feel like the same channel even when the illustration
+style changes.
+
+==================================================
+5. SIZE & COMPOSITION
+==================================================
+
+DEFAULT OUTPUT:
+1080 × 1920 px
+Vertical 9:16
+
+COMPOSITION LANGUAGE:
+- clean
+- editorial
+- modern
+- minimal
+- intentional
+- generous negative space
+- strong visual hierarchy
+- controlled asymmetry
+- rounded geometric framing
+- clear separation between subject and background
+
+Leave intentional negative space whenever text will be added later.
+
+Do not overcrowd the frame.
+Do not fill empty areas with unnecessary objects.
+
+The composition should feel designed rather than randomly generated.
+
+==================================================
+6. OVERALL VISUAL PERSONALITY
+==================================================
+
+The channel should feel:
+
+Modern
+Editorial
+Creative
+Smart
+Premium
+Playful but controlled
+Minimal
+Clean
+Distinctive
+Intentional
+
+AVOID:
+- generic AI aesthetics
+- stock-image appearance
+- excessive visual clutter
+- excessive gradients
+- random neon colors
+- unnecessary 3D effects
+- overly cinematic color grading
+- inconsistent character design
+- decorative elements without purpose
+- overly photorealistic visuals when an illustrated style is requested
+
+==================================================
+7. SLIDE GENERATION TEMPLATE
+==================================================
+
+For every new slide, use the following structure:
+
+NEW SLIDE
+
+SUBJECT:
+[What is the slide about?]
+
+MESSAGE:
+[What should the viewer understand?]
+
+MAIN CHARACTER:
+Use the established Main Reference Character.
+
+CHARACTER ACTION:
+[What is the character doing?]
+
+ART STYLE:
+[Select the desired approved Art Style.]
+
+COMPOSITION:
+[Where should the character/object be placed?]
+
+TEXT AREA:
+[Where should the text remain clear?]
+
+MOOD:
+[Desired emotional tone.]
+
+COLOR:
+Use the fixed brand palette.
+Prioritize:
+#025042
+#056758
+#DBC7A4
+#C31048
+#A40032
+
+FORMAT:
+1080 × 1920 px, vertical 9:16.
+
+==================================================
+8. FINAL GENERATION RULE
+==================================================
+
+Every image must look like it belongs to the same channel.
+
+Keep the following CONSTANT:
+- main character identity
+- brand color palette
+- composition language
+- visual hierarchy
+- overall design personality
+
+Allow the following to CHANGE:
+- topic
+- scene
+- pose
+- action
+- environment
+- selected art style
+- mood
+- supporting objects
+
+The final result must prioritize visual consistency over unnecessary detail.
+
+==================================================
+9. EXAMPLE REQUEST
+==================================================
+
+NEW SLIDE
+
+SUBJECT:
+AI is changing the way designers work.
+
+MESSAGE:
+Show the transformation from a traditional design workflow to an AI-assisted workflow.
+
+MAIN CHARACTER:
+Use the established Main Reference Character.
+
+CHARACTER ACTION:
+The character is sitting at a desk working on a computer while AI-generated visual
+concepts appear around him.
+
+ART STYLE:
+Use the most appropriate approved style from the Art Styles reference.
+
+COMPOSITION:
+Character on the right side.
+Large clean negative space on the left for typography.
+Use rounded vertical framing elements inspired by the Composition reference.
+
+TEXT AREA:
+Keep the left 40% visually clean.
+
+MOOD:
+Smart, creative, modern and slightly playful.
+
+COLOR:
+Strictly follow the fixed brand palette.
+Prioritize Deep Green, Dark Teal and Warm Beige.
+Use Crimson Pink and Deep Crimson as accents.
+
+FORMAT:
+1080 × 1920 px, vertical 9:16.
+
+DO NOT:
+- redesign the character
+- introduce unrelated colors
+- overcrowd the composition
+- use generic AI imagery
+- break the established visual identity
+
+```
 ## Global Generation Rule
 
 These prompts describe **content only**. Use the established Main Reference Character and the approved visual identity/style references separately.
