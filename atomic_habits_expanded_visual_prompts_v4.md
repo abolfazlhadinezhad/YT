@@ -4,6 +4,12 @@
 **Format:** 16:9 — 1920 × 1080  
 **Purpose:** Expanded content-only image prompts for the full script
 
+میخواهم بهت محتوای اسلاید بدم و تو بر اساس قوانینی که بهت دادم طراحی کنی، دقت کن میخوام کاراکتر دقیقا همین باشه
+
+(ممکنه بعضی اسلایدا کاراکتر نخوان)
+
+سایز عکس هایی که میسازی 16 در 9 باشه
+
 ## Global Generation Rule
 
 These prompts describe **content only**. Use the established Main Reference Character and the approved visual identity/style references separately.
