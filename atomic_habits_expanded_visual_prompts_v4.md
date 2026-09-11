@@ -301,7 +301,6 @@ DO NOT:
 
 ```
 
-```
 ## Global Generation Rule
 
 These prompts describe **content only**. Use the established Main Reference Character and the approved visual identity/style references separately.
